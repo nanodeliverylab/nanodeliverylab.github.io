@@ -7,16 +7,16 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Henriques Laboratory"
-title2                    : "Start page"
+title                    : "NanoDelivery Lab"
+title2                    : "Home Page"
 title_separator          : "-"
-name                     : &name "Ricardo Henriques's Lab"
-description              : &description "Quantitative Imaging and NanoBioPhysics"
-url                      : https://henriqueslab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "NanoDelivery Lab"
+description              : &description "Description"
+url                      : https://lucadigiacomo51.github.io #https://henriqueslab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url                      : http://127.0.0.1:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "henriqueslab/henriqueslab.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "lucadigiacomo51/lucadigiacomo51.github.io" #"henriqueslab/henriqueslab.github.io"
+teaser                   : #"mstile-150x150.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png" 
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -75,13 +75,13 @@ social:
 
 # Site Author
 author:
-  name             : "Ricardo Henriques"
+  name             : "Smart Nanocarriers"
   avatar           : "RH.jpg"
-  bio              : "Professor of Computational and Optical Biophysics, University College London and Francis Crick Institute"
-  location         : "London, UK"
+  bio              : "for drug and gene delivery... and more"
+  location         : 
   employer         :
-  googlescholar    : "https://scholar.google.co.uk/citations?user=-peQ4ZsAAAAJ&hl=en"
-  email            : "r.henriques@ucl.ac.uk"
+  googlescholar    : "https://scholar.google.com/citations?user=qWwuxK4AAAAJ&hl=it&oi=ao"
+  email            : "giulio.caracciolo@uniroma1.it"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,27 +89,30 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "HenriquesLab"
+  github           : "lucadigiacomo51/nano_test_01.github.io"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0002-2043-5234"
+  orcid            : "https://orcid.org/0000-0002-8636-4475"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "HenriquesLab"
+  twitter          : "twitter"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
   researchgate     :
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=7003398017"
 
-
+#author:
+#  name             : "NanoDelivery Lab 2"
+#  avatar           : "RH.jpg"
 
 # Reading Files
 include:
