@@ -16,16 +16,12 @@
   bullets: True
   captions: True
   images:
-    - src: /images/PIC-STED.jpg
-      alt: Structure of biomimetic hydrogel
-    - src: /images/cell_matrix.jpg
-      alt: Cell remodelling the matrix
-    - src: /images/super-res-comp.jpg
-      alt: Super-resolution fluroescence imaging
-    - src: /images/organoid3.jpg
-      alt: Imaging organoids
-    - src: /images/TOC-v3-01.jpg
-      alt:
+    - src: /images/NanoScaleHoriz_cut.jpg
+      alt: caption1
+    - src: /images/liposome-corona-box.png
+      alt: caption2
+    - src: /images/tocboh.jpg
+      alt: caption3
   settings:
     height:  "'auto'"
     interval: 5000
