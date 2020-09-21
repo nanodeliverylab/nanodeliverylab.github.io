@@ -23,7 +23,7 @@
     - src: /images/tocboh.jpg
       alt: caption3
     - src: /images/FumettoLab.jpg
-      alt: Ciao :)
+      alt: Hello World!
   settings:
     height:  "'auto'"
     interval: 5000
