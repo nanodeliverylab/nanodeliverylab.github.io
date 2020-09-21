@@ -22,6 +22,8 @@
       alt: caption2
     - src: /images/tocboh.jpg
       alt: caption3
+    - src: /images/FumettoLab.jpg
+      alt: Ciao :)
   settings:
     height:  "'auto'"
     interval: 5000
