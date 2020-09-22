@@ -24,4 +24,4 @@ I am currently working on the development of nanoparticle-enabled blood tests fo
 <br>
 &nbsp;   &#182; [Curriculum Vitae](https://nanodeliverylab.github.io/files/CV_LD.pdf)<br>
 &nbsp;   &#10077; [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56884553000)<br>
-&nbsp;   &#x265F; [Lichess] (https://lichess.org/@/Ivanchliuk)<br>
+&nbsp;   &#x265F; [Lichess](https://lichess.org/@/Ivanchliuk)<br>
