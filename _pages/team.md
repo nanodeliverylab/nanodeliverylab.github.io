@@ -61,9 +61,9 @@ author_profile: true
 <h2>Former lab members</h2>
 
 <hr><br>
-&nbsp; &nbsp; <strong>Laura Scarpati</strong>. Master's thesis <em>title...</em> <br>
-&nbsp; &nbsp; <strong>Valentina Colapicchioni</strong>. Ph.D. thesis <em>title...</em> <br>
-&nbsp; &nbsp; <strong>Stefano Coppola</strong>. Ph.D. thesis <em>title...</em> <br>
-&nbsp; &nbsp; <strong>Giorgia La Barbera</strong>.   Master's thesis <em>title...</em> <br>
-&nbsp; &nbsp; <strong>Alessandro Rossetta</strong>. Master's thesis <em>title...</em> <br>
+&nbsp; &nbsp; <strong>Laura Scarpati</strong>. Master's thesis <em>title...</em> <br><br>
+&nbsp; &nbsp; <strong>Valentina Colapicchioni</strong>. Ph.D. thesis <em>title...</em> <br><br>
+&nbsp; &nbsp; <strong>Stefano Coppola</strong>. Ph.D. thesis <em>title...</em> <br><br>
+&nbsp; &nbsp; <strong>Giorgia La Barbera</strong>.   Master's thesis <em>title...</em> <br><br>
+&nbsp; &nbsp; <strong>Alessandro Rossetta</strong>. Master's thesis <em>title...</em> <br><br>
 
