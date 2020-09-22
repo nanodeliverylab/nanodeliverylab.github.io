@@ -67,5 +67,6 @@ veicolazione di Temozolomide nei tumori cerebrali.</em> 2019<br><br>
 <strong>Valentina Colapicchioni</strong>. Ph.D. thesis. <em>title...</em> <br><br>
 <strong>Stefano Coppola</strong>. Ph.D. thesis. <em>title...</em> <br><br>
 <strong>Giorgia La Barbera</strong>. Master's thesis. <em>title...</em> <br><br>
-&nbsp; &nbsp; <strong>Alessandro Rossetta</strong>. Master's thesis. <em>title...</em> <br><br>
+<strong>Alessandro Rossetta</strong>. Master's thesis. <em>title...</em> <br><br>
 
+<hr-bold>
