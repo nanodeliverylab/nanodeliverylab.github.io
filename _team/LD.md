@@ -7,7 +7,7 @@ header:
 tags: post-doc
 tagline: Postdoc<br>AIRC Research Fellow
 subject: "Study of protein-nanomaterial interactions and development of nanoparticle-enabled blood tests for the early detection of pancreatic cancer"
-date: 2020-04-01
+date: 2013-09-01
 
 email: 'luca.digiacomo@uniroma1.it'
 
