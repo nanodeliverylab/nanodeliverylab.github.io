@@ -20,22 +20,6 @@ email: 'luca.digiacomo@uniroma1.it'
 Physicist by training, I approached to life and health siences just after graduating. My research activity mainly focuses on the computational aspects of the lab's studies on protein-nanomaterial interactions. I enjoy coding custom scripts for statistical data analysis, curve fitting and image processing tools. 
 My main project aims to the development of nanoparticle-enabled blood tests for the early detection of pancreatic cancer. <br>
 
-<center>
-<br>
-O== ==O <br>
-O== ==O <br>
-O== ==O <br>
-O== ==O <br>
-O== ==O <br>
-O== ==O <br>
-O== ==O <br>
-O== ==O <br>
-O== ==O <br>
-O== ==O <br>
-O== ==O <br>
-O== ==O <br>
-<br>
-</center>
   
 &#182; [Curriculum Vitae](https://nanodeliverylab.github.io/files/CV_LD.pdf)<br>
 &#10077; [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56884553000)<br><br>
