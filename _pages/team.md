@@ -61,7 +61,7 @@ author_profile: true
 <h2>Former lab members</h2>
 
 <hr><br>
-&nbsp; Valentina Colapicchioni <br>
-&nbsp; Stefano Coppola <br>
-&nbsp; Giorgia La Barbera <br>
-&nbsp; Alessandro Rossetta <br>
+&nbsp; &nbsp; Valentina Colapicchioni <br>
+&nbsp; &nbsp; Stefano Coppola <br>
+&nbsp; &nbsp; Giorgia La Barbera <br>
+&nbsp; &nbsp; Alessandro Rossetta <br>
