@@ -61,9 +61,9 @@ author_profile: true
 <h2>Former lab members</h2>
 
 <hr><br>
-<strong>Laura Scarpati</strong>. Master's thesis. <em>Ruolo della corona proteica artificiale nella veicolazione di materiale genetico mediata da liposomi cationici</em> <br><br>
+<strong>Laura Scarpati</strong>. Master's thesis. <em>Ruolo della corona proteica artificiale nella veicolazione di materiale genetico mediata da liposomi cationici.</em> 2020<br><br>
 <strong>Benedetta Soccodato</strong>. Master's thesis. <em>Preparazione, caratterizzazione chimico-fisica e validazione in vitro di formulazioni liposomiali per la
-veicolazione di Temozolomide nei tumori cerebrali</em> <br><br>
+veicolazione di Temozolomide nei tumori cerebrali.</em> 2019<br><br>
 <strong>Valentina Colapicchioni</strong>. Ph.D. thesis. <em>title...</em> <br><br>
 <strong>Stefano Coppola</strong>. Ph.D. thesis. <em>title...</em> <br><br>
 <strong>Giorgia La Barbera</strong>. Master's thesis. <em>title...</em> <br><br>
