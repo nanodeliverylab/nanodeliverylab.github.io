@@ -17,9 +17,9 @@ email: 'luca.digiacomo@uniroma1.it'
 
 <p align= "justify">
 
-Physicist by training, I approached to life and health siences just after graduating. My research focuses on the study of protein-nanomaterial interactions and the development of nanoparticle-enabled blood tests for the early detection of pancreatic cancer <br>
+Physicist by training, I approached to life and health siences just after graduating. My research focuses on the study of protein-nanomaterial interactions and I am currently working on the development of nanoparticle-enabled blood tests for the early detection of pancreatic cancer.  <br>
 
-useful links: <br>
+<br>
 &nbsp;   &#182; [Curriculum Vitae](https://nanodeliverylab.github.io/files/CV_LD.pdf)<br>
 &nbsp;   &#10077; [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56884553000)<br>
 &nbsp;   [&#x265F;](https://lichess.org/@/Ivanchliuk)<br>
