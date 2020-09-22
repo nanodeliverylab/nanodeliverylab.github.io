@@ -45,7 +45,7 @@ author_profile: true
 </div>
 
 <hr-bold>
-<h2>Students</h2>
+<h2>Internship students</h2>
 <hr><br>
 <div class="grid">
 <div class="wrapper">
@@ -56,3 +56,6 @@ author_profile: true
   {% endfor %}
 </div>
 </div>
+
+<hr-bold>
+<h2>Former lab members</h2>
