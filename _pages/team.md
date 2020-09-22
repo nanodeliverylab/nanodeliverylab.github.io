@@ -64,3 +64,4 @@ author_profile: true
 &nbsp; Valentina Colapicchioni <br>
 &nbsp; Stefano Coppola <br>
 &nbsp; Giorgia La Barbera <br>
+&nbsp; Alessandro Rossetta <br>
