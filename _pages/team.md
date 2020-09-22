@@ -62,6 +62,6 @@ author_profile: true
 
 <hr><br>
 &nbsp; &nbsp; Valentina Colapicchioni <br>
-&nbsp; &nbsp; <hr-bold>Stefano Coppola<hr> thesis title <br>
+&nbsp; &nbsp; <h2>Stefano Coppola</h2> thesis title <br>
 &nbsp; &nbsp; Giorgia La Barbera <br>
 &nbsp; &nbsp; Alessandro Rossetta <br>
