@@ -8,10 +8,8 @@ tags: post-doc
 tagline: Postdoc<br>AIRC Research Fellow
 subject: "Study of protein-nanomaterial interactions for the early diagnosis of pancreatic cancer"
 date: 2020-04-01
-scopus: https://www.scopus.com/authid/detail.uri?authorId=7003398017
-googlescholar: https://scholar.google.com/citations?user=qWwuxK4AAAAJ&hl=it&oi=ao
+
 email: 'luca.digiacomo@uniroma1.it'
-orcid: https://orcid.org/0000-0002-8636-4475
 
 ---
 
