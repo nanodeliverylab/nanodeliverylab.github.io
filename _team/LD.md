@@ -22,20 +22,10 @@ My main project aims to the development of nanoparticle-enabled blood tests for 
 
 <br>
 
-+_ ++_ <br>
-/  \/  \ <br>
-\_ /\_ / <br>
-'/++// <br>
-'\\++\\ <br>
-'//++// <br>
-'\\++\\ <br>
-<br>
-+//++// <br>
-+\\++\\ <br>
-+//++// <br>
-+\\++\\ <br>
-/  \/  \ <br>
-\__/\__/ <br>
+// // <br>
+\\ \\ <br>
+// // <br>
+\\ \\ <br>
 
 <br>
 
