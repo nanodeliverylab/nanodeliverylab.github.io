@@ -62,7 +62,7 @@ author_profile: true
 
 <hr><br>
 &nbsp; &nbsp; <strong>Valentina Colapicchioni</strong>. Ph.D. thesis *title...*<br>
-&nbsp; &nbsp; **Stefano Coppola.** Master's thesis *title...*<br>
-&nbsp; &nbsp; **Giorgia La Barbera**  Master's thesis *title...* <br>
-&nbsp; &nbsp; **Alessandro Rossetta** Master's thesis *title...* <br>
+&nbsp; &nbsp; <strong>Stefano Coppola<\strong>. Master's thesis *title...*<br>
+&nbsp; &nbsp; <strong>Giorgia La Barbera<\strong>.   Master's thesis *title...* <br>
+&nbsp; &nbsp; <strong>Alessandro Rossetta<\strong>. Master's thesis *title...* <br>
 
