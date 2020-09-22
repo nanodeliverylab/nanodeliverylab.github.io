@@ -61,7 +61,8 @@ author_profile: true
 <h2>Former lab members</h2>
 
 <hr><br>
-&nbsp; &nbsp; **Valentina Colapicchioni**. Ph.D. thesis *title...*<br>
+&nbsp; &nbsp; **Valentina Colapicchioni**.
+Ph.D. thesis *title...*<br>
 &nbsp; &nbsp; **Stefano Coppola.** Master's thesis *title...*<br>
 &nbsp; &nbsp; **Giorgia La Barbera**  Master's thesis *title...* <br>
 &nbsp; &nbsp; **Alessandro Rossetta** Master's thesis *title...* <br>
