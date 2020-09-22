@@ -60,4 +60,7 @@ author_profile: true
 <hr-bold>
 <h2>Former lab members</h2>
 
-<hr><br> Stefano Coppola
+<hr><br>
+&nbsp; Valentina Colapicchioni <br>
+&nbsp; Stefano Coppola <br>
+&nbsp; Giorgia La Barbera <br>
