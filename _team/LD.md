@@ -22,10 +22,10 @@ My main project aims to the development of nanoparticle-enabled blood tests for 
 
 <br>
 
-/ /  / / <br>
-\ \  \ \ <br>
-/ /  / / <br>
-\ \  \ \ <br>
+/ / . / / <br>
+\ \ . \ \ <br>
+/ / . / / <br>
+\ \ . \ \ <br>
 
 <br>
 
