@@ -39,4 +39,4 @@ O== ==O <br>
   
 &#182; [Curriculum Vitae](https://nanodeliverylab.github.io/files/CV_LD.pdf)<br>
 &#10077; [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56884553000)<br>
-[&#x265F;](https://lichess.org/@/Ivanchliuk)
+<right> [&#x265F;](https://lichess.org/@/Ivanchliuk) </right>
