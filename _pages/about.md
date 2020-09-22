@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: archive
-excerpt: "About me"
+excerpt: "Smart Nanomaterials"
 author_profile: true
 redirect_from:
   - /about/
