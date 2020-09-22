@@ -21,9 +21,8 @@ Physicist by training, I approached to life and health siences just after gradua
 My main project aims to the development of nanoparticle-enabled blood tests for the early detection of pancreatic cancer. [&#x265F;](https://lichess.org/@/Ivanchliuk)<br>
 
 <br>
- .oo <br>
- oooo <br>
- .oo <br>
+ o o <br>
+ o o <br>
  / / . / / <br>
  \ \ . \ \ <br>
  / / . / / <br>
