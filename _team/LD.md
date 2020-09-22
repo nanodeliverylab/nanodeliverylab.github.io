@@ -24,8 +24,9 @@ My main project aims to the development of nanoparticle-enabled blood tests for 
 
 .~~~~.<br>
 |====|_<br>
-|    |_)<br>
-|    |<br>
+|....| )<br>
+|....|_)<br>
+|....|<br>
 `-==-'<br
 
 <br>
