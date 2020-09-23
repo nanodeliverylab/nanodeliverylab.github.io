@@ -82,7 +82,9 @@
       {% elsif post.venue == "Frontiers in Bioengineering and Biotechnology" %}
         <img src="{{ "cover_fbb.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Nanoscale" %}
-        <img src="{{ "cover_nanoscale.png" | prepend: "/images/" | prepend: base_path }}" alt="">  
+        <img src="{{ "cover_nanoscale.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Langmuir" %}
+        <img src="{{ "cover_langmuir.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% else %}
         <img src="{{ "journal.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% endif %}
