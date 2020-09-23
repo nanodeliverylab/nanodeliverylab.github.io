@@ -1,0 +1,17 @@
+---
+title: "Effect of polyethyleneglycol (PEG) chain length on the bio-nano-interactions between PEGylated lipid nanoparticles and biological fluids: from nanostructure to uptake in cancer cells" 
+date: 2014-03-07
+venue: 'Nanoscale'
+authors: 'Daniela Pozzi, Valentina Colapicchioni, Giulio Caracciolo, Susy Piovesana, Anna Laura Capriotti, Sara Palchetti, Stefania De Grossi, Anna Riccioli, Heinz Amenitsch, Aldo Laganà'
+paperurl: https://pubs.rsc.org/en/content/articlelanding/2014/nr/c3nr05559k/unauth#!divAbstract
+doi: 10.1039/C3NR05559K
+type: 'Paper'
+theme: 'Protein Corona'
+resources: ''
+---
+
+<h2> Abstract </h2>
+<p align= "justify">
+When nanoparticles (NPs) enter a physiological environment, medium components compete for binding to the NP surface leading to formation of a rich protein shell known as the “protein corona”. Unfortunately, opsonins are also adsorbed. These proteins are immediately recognized by the phagocyte system with rapid clearance of the NPs from the bloodstream. Polyethyleneglycol (PEG) coating of NPs (PEGylation) is the most efficient anti-opsonization strategy. Linear chains of PEG, grafted onto the NP surface, are able to create steric hindrance, resulting in a significant inhibition of protein adsorption and less recognition by macrophages. However, excessive PEGylation can lead to a strong inhibition of cellular uptake and less efficient binding with protein targets, reducing the potential of the delivery system. To reach a compromise in this regard we employed a multi-component (MC) lipid system with uncommon properties of cell uptake and endosomal escape and increasing length of PEG chains. Nano liquid chromatography coupled with tandem mass spectrometry (nanoLC-MS/MS) analysis allowed us to accurately determine the corona composition showing that apolipoproteins are the most abundant class in the corona and that increasing the PEG length reduced the protein adsorption and the liposomal surface affinity for apolipoproteins. Due to the abundance of apolipoproteins, we exploited the “protein corona effect” to deliver cationic liposome–human plasma complexes to human prostate cancer PC3 cells that express a high level of scavenger receptor class B type 1 in order to evaluate the cellular uptake efficiency of the systems used. Combining laser scanning confocal microscopy with flow cytometry analysis in PC3 cells we demonstrated that MC-PEG2k is the best compromise between an anti-opsonization strategy and active targeting and could be a promising candidate to treat prostate cancer in vivo.
+
+{% include paper-research-resources.html %}
