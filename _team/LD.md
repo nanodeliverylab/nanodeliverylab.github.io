@@ -22,7 +22,6 @@ My main project aims to the development of nanoparticle-enabled blood tests for 
 &#10077; <a href="https://www.scopus.com/authid/detail.uri?authorId=56884553000">Scopus </a><span class="info"> <br> 
 
 <div style="text-align: right"> <a href="https://lichess.org/@/Ivanchliuk">&#x265F; </a><span class="info"> <br> 
-
-..
+<br>
 
 {% include publication-list.html %}
