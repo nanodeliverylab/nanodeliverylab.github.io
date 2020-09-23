@@ -26,4 +26,7 @@ My main project aims to the development of nanoparticle-enabled blood tests for 
 
 <h2>Publications with our group</h2> <br>
 
+{% include author-research-themes.html %}
+{% include author-research-resources.html %}
+{% include team-member-collaborators.html %}
 {% include publication-list.html %}
