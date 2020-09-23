@@ -26,7 +26,4 @@ My main <h2>project</h2> aims to the development of nanoparticle-enabled blood t
 
 <h2>Publications with our group</h2> <br>
 
-{% include author-research-themes.html %}
-{% include author-research-resources.html %}
-{% include team-member-collaborators.html %}
 {% include publication-list.html %}
