@@ -15,12 +15,8 @@ orcid: https://orcid.org/0000-0002-8636-4475
 
 ---
 
-{::options parse_block_html="true" /}
-
 <p align= "justify">
 
 TEXT bio, description, ...; <br>
 
-useful links: <br>
-
-&nbsp;   [&#x265F;](https://lichess.org/@/Ivanchliuk)<br>
+{% include publication-list.html %}
