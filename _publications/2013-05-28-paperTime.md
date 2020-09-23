@@ -1,7 +1,7 @@
 ---
 title: "Time evolution of nanoparticle–protein corona in human plasma: relevance for targeted drug delivery" 
-date: 2014-04-30
-venue: 'Nanoscale'
+date: 2013-04-30
+venue: 'Langmuir'
 authors: 'Ana Lilia Barrán-Berdón, Daniela Pozzi, Giulio Caracciolo, Anna Laura Capriotti, Giuseppe Caruso, Chiara Cavaliere, Anna Riccioli, Sara Palchetti, Aldo Laganà'
 paperurl: https://pubs.acs.org/doi/abs/10.1021/la401192x
 doi: 10.1021/la401192x
