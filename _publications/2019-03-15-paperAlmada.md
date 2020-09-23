@@ -1,5 +1,5 @@
 ---
-title: "Automating multimodal microscopy with NanoJ-Fluidics"
+title: "Automating multimodal microscopy with ?"
 collection: publications
 date: 2019-03-15
 venue: 'Nature communications'
