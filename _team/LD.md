@@ -11,7 +11,7 @@ date: 2013-09-01
 email: 'luca.digiacomo@uniroma1.it'
 ---
 
-{::options parse_block_html="true" /}
+<!-- {::options parse_block_html="true" /} -->
 
 <p align= "justify">
 
