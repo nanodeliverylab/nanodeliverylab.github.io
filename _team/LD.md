@@ -9,8 +9,6 @@ tagline: Postdoc<br>AIRC Research Fellow
 subject: "Physicist and scientific data analyst"
 date: 2013-09-01
 email: 'luca.digiacomo@uniroma1.it'
-cv: ../CV_LD.pdf
-scopus: https://www.scopus.com/authid/detail.uri?authorId=56884553000
 ---
 
 <!-- {::options parse_block_html="true" /} -->
@@ -21,7 +19,8 @@ Physicist by training, I approached to life and health siences just after gradua
 My main project aims to the development of nanoparticle-enabled blood tests for the early detection of pancreatic cancer. <br><br>
 
 {::options parse_block_html="true" /}
-<div>
+
+<div class='boh'>
 &#182; [Curriculum Vitae](https://nanodeliverylab.github.io/files/CV_LD.pdf)<br>
 &#10077; [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56884553000)<br>
 <br>
