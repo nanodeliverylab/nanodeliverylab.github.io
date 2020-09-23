@@ -9,6 +9,7 @@ tagline: Postdoc<br>AIRC Research Fellow
 subject: "Physicist and scientific data analyst"
 date: 2013-09-01
 email: 'luca.digiacomo@uniroma1.it'
+cv: (https://nanodeliverylab.github.io/files/CV_LD.pdf)
 ---
 
 <!-- {::options parse_block_html="true" /} -->
@@ -26,6 +27,5 @@ My main project aims to the development of nanoparticle-enabled blood tests for 
 <br>
 
 {::options parse_block_html="false" /}
-<h2>Publications with our group</h2> <br>
 
 {% include publication-list.html %}
