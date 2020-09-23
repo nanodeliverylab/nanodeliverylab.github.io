@@ -4,7 +4,7 @@ collection: publications
 date: 2020-05-20
 venue: 'Frontiers in Bioengineering and Biotechnology'
 authors: 'Riccardo Di Santo, Luca Digiacomo, Erica Quagliarini, Anna Laura Capriotti, Aldo Laganà, Riccardo Zenezini Chiozzi, Damiano Caputo, Chiara Cascone, Roberto Coppola, Daniela Pozzi, Giulio Caracciolo'
-paperurl: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7261887/
+paperurl: https://www.frontiersin.org/articles/10.3389/fbioe.2020.00491/full
 doi: 10.3389/fbioe.2020.00491
 type: 'Paper'
 theme: 'Protein Corona'
