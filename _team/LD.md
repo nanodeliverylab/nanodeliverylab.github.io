@@ -17,14 +17,10 @@ Physicist by training, I approached to life and health siences just after gradua
 My main project aims to the development of nanoparticle-enabled blood tests for the early detection of pancreatic cancer. <br><br>
 
 
-{::options parse_block_html="true" /}
-
 &#182; [Curriculum Vitae](https://nanodeliverylab.github.io/files/CV_LD.pdf)<br>
 &#10077; [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56884553000)<br>
 <br>
 [&#x265F;](https://lichess.org/@/Ivanchliuk) text
 <br>
-
-{::options parse_block_html="false" /}
 
 {% include publication-list.html %}
