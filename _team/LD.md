@@ -22,8 +22,5 @@ My main project aims to the development of nanoparticle-enabled blood tests for 
 
 &#182; [Curriculum Vitae](https://nanodeliverylab.github.io/files/CV_LD.pdf)<br>
 &#10077; [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56884553000)<br>
-
-
-<p align= "right"> text <br>
-
-a [&#x265F;](https://lichess.org/@/Ivanchliuk)
+<br>
+[&#x265F;](https://lichess.org/@/Ivanchliuk)
