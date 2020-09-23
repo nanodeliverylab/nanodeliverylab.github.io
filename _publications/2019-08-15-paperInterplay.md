@@ -7,8 +7,8 @@ authors: 'Francesca Giulimondi, Luca Digiacomo,  Daniela Pozzi, Sara Palchetti, 
 paperurl: https://www.nature.com/articles/s41467-019-11642-7
 doi: 10.1038/s41467-019-11642-7
 type: 'Paper'
-theme: 'somethings'
-resources: 'pumpy, srrf, squirrel, nanoj'
+theme: 'Nanomedicine, protein corona, immune system'
+resources: ''
 ---
 
 <h2> Abstract </h2>
