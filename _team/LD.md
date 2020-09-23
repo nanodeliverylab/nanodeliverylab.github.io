@@ -8,9 +8,7 @@ tags: post-doc
 tagline: Postdoc<br>AIRC Research Fellow
 subject: "Physicist and scientific data analyst"
 date: 2013-09-01
-
 email: 'luca.digiacomo@uniroma1.it'
-
 ---
 
 {::options parse_block_html="true" /}
