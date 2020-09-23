@@ -9,7 +9,6 @@ tagline: PhD
 subject: "text..."
 date: 2013-09-01
 email: 'erica.quagliarini@uniroma1.it'
-orcid: https://orcid.org/0000-0002-8636-4475
 
 ---
 
