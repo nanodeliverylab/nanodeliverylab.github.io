@@ -9,7 +9,7 @@ tagline: Postdoc<br>AIRC Research Fellow
 subject: "Physicist and scientific data analyst"
 date: 2013-09-01
 email: 'luca.digiacomo@uniroma1.it'
-cv: https://nanodeliverylab.github.io/files/CV_LD.pdf
+cv: CV_LD.pdf
 scopus: https://www.scopus.com/authid/detail.uri?authorId=56884553000
 ---
 
