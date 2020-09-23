@@ -87,6 +87,8 @@
         <img src="{{ "cover_langmuir.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Trends in Biotechnology" %}
         <img src="{{ "cover_tb.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Nanomedicine: Nanotechnology, Biology and Medicine" %}
+        <img src="{{ "cover_nm.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% else %}
         <img src="{{ "journal.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% endif %}
