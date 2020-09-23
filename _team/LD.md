@@ -23,4 +23,6 @@ My main project aims to the development of nanoparticle-enabled blood tests for 
 [&#x265F;](https://lichess.org/@/Ivanchliuk) text
 <br>
 
+{::options parse_block_html="false" /}
+
 {% include publication-list.html %}
