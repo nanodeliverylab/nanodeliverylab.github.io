@@ -24,3 +24,5 @@ My main project aims to the development of nanoparticle-enabled blood tests for 
 &#10077; [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56884553000)<br>
 <br>
 [&#x265F;](https://lichess.org/@/Ivanchliuk)
+
+{% include publication-list.html %}
