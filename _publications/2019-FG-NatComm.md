@@ -1,5 +1,5 @@
 ---
-title: "QuickPALM: 3D real-time photoactivation nanoscopy image processing in ImageJ"
+title: "Interplay of protein corona and immune cells controls blood residency of liposomes"
 collection: publications
 date: 2019-08-15
 venue: 'Nature communications'
