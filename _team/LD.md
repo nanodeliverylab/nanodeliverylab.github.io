@@ -28,4 +28,4 @@ My main project aims to the development of nanoparticle-enabled blood tests for 
 
 {::options parse_block_html="false" /}
 
-<p>{% include publication-list.html %}</p>
+{% include publication-list.html %}
