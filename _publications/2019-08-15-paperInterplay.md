@@ -3,7 +3,7 @@ title: "Interplay of protein corona and immune cells controls blood residency of
 collection: publications
 date: 2019-08-15
 venue: 'Nature communications'
-authors: 'Francesca Giulimondi, Luca Digiacomo, ..., Giulio Caracciolo'
+authors: 'Franca Giulimondi, Luca Digiacomo, ..., Giulio Caracciolo'
 paperurl: https://www.nature.com/articles/s41467-019-11642-7
 doi: 10.1038/s41467-019-11642-7
 type: 'Paper'
