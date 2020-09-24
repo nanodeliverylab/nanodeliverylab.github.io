@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects"
+title: "Funded projects"
 permalink: /projects/
 author_profile: false
 sidebar:
