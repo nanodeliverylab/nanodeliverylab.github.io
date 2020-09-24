@@ -17,9 +17,9 @@ Project id (Id. 20327).
 452.000 € <br><br>
 
 2014-2017 <br>
-<em>Ministero della Salute</em><br>
 **Exploiting the protein corona effect for biomarker discovery and targeting of nanomedicines in pancreatic cancer**<br>
 <em>Bando giovani ricercatori 2011-2012</em> funded by
+<em>Ministero della Salute</em><br>
 Project id GR-2011-02350094.
 290.000 €
 
