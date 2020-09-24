@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: false
+sidebar:
+  nav: "Projs"
+---
+
 2018-2022
 Bando: Investigator Grant - IG 2017.
 Ente finanziatore: Associazione Italiana per la Ricerca sul Cancro (AIRC).
