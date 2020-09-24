@@ -13,22 +13,22 @@ sidebar:
 **Nanoparticle-enabled blood test for pancreatic cancer detection.**<br>
 <em>Investigator Grant - IG 2017</em> funded by
 <em>Associazione Italiana per la Ricerca sul Cancro (AIRC)</em><br>
-Project id (Id. 20327).	
+Project id 20327.	
 452.000 € <br><br>
 
 2014-2017 <br>
-**Exploiting the protein corona effect for biomarker discovery and targeting of nanomedicines in pancreatic cancer**<br>
+**Exploiting the protein corona effect for biomarker discovery and targeting of nanomedicines in pancreatic cancer.**<br>
 <em>Bando giovani ricercatori 2011-2012</em> funded by
 <em>Ministero della Salute</em><br>
 Project id GR-2011-02350094.
 290.000 €
 
-2010-2015
-Bando: FIRB - Futuro in Ricerca 
-Ente finanziatore: Ministero per l’Università e la Ricerca (MIUR).
-Titolo del progetto: Comprensione delle interazioni tra cellule e nanoparticelle lipidiche per il trasporto genico.
-Codice del progetto: (RBFR08TLPO_001).
-Importo del finanziamento: 550.000 euro	*
+2010-2015<br>
+**Comprensione delle interazioni tra cellule e nanoparticelle lipidiche per il trasporto genico.**<br>
+<em>Bando: FIRB - Futuro in Ricerca</em> funded by
+<em>Ministero per l’Università e la Ricerca (MIUR).</em>
+Project id: RBFR08TLPO_001.
+550.000 €
 
 2014	
 Bando: Finanziamento di ateneo per la ricerca scientifica. Acquisizione di medie e grandi attrezzature scientifiche.
