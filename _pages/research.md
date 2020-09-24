@@ -6,6 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 
+text
+  
 <div class="grid">
   <div class="wrapper">
     {% for post in site.research %}
