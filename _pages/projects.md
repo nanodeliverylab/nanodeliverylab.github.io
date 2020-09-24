@@ -26,7 +26,7 @@ Project id GR-2011-02350094.
 2010-2015<br>
 **Comprensione delle interazioni tra cellule e nanoparticelle lipidiche per il trasporto genico.**<br>
 <em>Bando: FIRB - Futuro in Ricerca</em> funded by
-<em>Ministero per l’Università e la Ricerca (MIUR).</em>
+<em>Ministero per l’Università e la Ricerca (MIUR).</em><br>
 Project id: RBFR08TLPO_001.
 550.000 € <br><br>
 
