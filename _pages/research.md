@@ -6,7 +6,6 @@ author_profile: true
 ---
 {% include base_path %}
 
-<hr-bold>
 text
   
 <div class="grid">
