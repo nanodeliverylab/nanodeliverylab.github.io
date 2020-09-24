@@ -1,5 +1,5 @@
 ---
-title: "Graphene oxide and hybrid nanomaterials"
+title: "Graphene Oxide and hybrid nanomaterials"
 type: "go"
 collection: research
 date: 2018-01-01
