@@ -6,7 +6,7 @@ venue: 'Frontiers in Bioengineering and Biotechnology'
 authors: 'Riccardo Di Santo, Luca Digiacomo, Erica Quagliarini, Anna Laura Capriotti, Aldo Laganà, Riccardo Zenezini Chiozzi, Damiano Caputo, Chiara Cascone, Roberto Coppola, Daniela Pozzi, Giulio Caracciolo'
 paperurl: https://www.frontiersin.org/articles/10.3389/fbioe.2020.00491/full
 doi: 10.3389/fbioe.2020.00491
-type: 'Paper'
+type: 'Nanoparticle-enabled blood test for the early detection of cancers','Graphene oxide and hybrid nanomaterials'
 theme: ''
 resources: ''
 ---
