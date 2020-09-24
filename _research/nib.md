@@ -1,10 +1,7 @@
 ---
-title: "Nanoparticle-enabled blood test for pancreatic cancer detection"
-type: "Nanoparticle-enabled blood test for pancreatic cancer detection"
+title: "Nanoparticle-enabled blood test for the early detection of cancers"
+type: "Nanoparticle-enabled blood test for the early detection of cancers"
 collection: research
-tags: 
-sidebar:
-  nav: "Projs"
 date: 2018-01-01
 author_profile: true
 header:
