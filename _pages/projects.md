@@ -12,7 +12,7 @@ sidebar:
 <em>Associazione Italiana per la Ricerca sul Cancro (AIRC)</em><br>
 Title: **Nanoparticle-enabled blood test for pancreatic cancer detection.**
 Project id (Id. 20327).	
-452.000 euro <br><br>
+452.000 € <br><br>
 
 2014-2017 
 Bando: Bando giovani ricercatori 2011-2012.
