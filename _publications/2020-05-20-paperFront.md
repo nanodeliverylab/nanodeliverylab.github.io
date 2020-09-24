@@ -7,7 +7,7 @@ authors: 'Riccardo Di Santo, Luca Digiacomo, Erica Quagliarini, Anna Laura Capri
 paperurl: https://www.frontiersin.org/articles/10.3389/fbioe.2020.00491/full
 doi: 10.3389/fbioe.2020.00491
 type: 'Paper'
-theme: 'Nanoparticle-enabled blood test for pancreatic cancer detection'
+theme: ''
 resources: ''
 ---
 
