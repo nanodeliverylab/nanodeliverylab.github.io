@@ -3,13 +3,13 @@ main:
   #- title: "News"
   #  url: /news/
 
-  - title: "Research"
+  - title: "Research themes"
     url: /research/
 
   - title: "Team"
     url: /team/
     
-  - title: "Projects"
+  - title: "Funded projects"
     url: /projects/
   
   - title: "Collaborations"
