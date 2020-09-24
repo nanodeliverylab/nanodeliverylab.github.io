@@ -10,16 +10,16 @@ sidebar:
 <br>
 
 2018-2022 <br>
+**Nanoparticle-enabled blood test for pancreatic cancer detection.**<br>
 <em>Investigator Grant - IG 2017</em> funded by
 <em>Associazione Italiana per la Ricerca sul Cancro (AIRC)</em><br>
-**Nanoparticle-enabled blood test for pancreatic cancer detection.**<br>
 Project id (Id. 20327).	
 452.000 € <br><br>
 
 2014-2017 <br>
-<em>Bando giovani ricercatori 2011-2012</em> funded by
 <em>Ministero della Salute</em><br>
 **Exploiting the protein corona effect for biomarker discovery and targeting of nanomedicines in pancreatic cancer**<br>
+<em>Bando giovani ricercatori 2011-2012</em> funded by
 Project id GR-2011-02350094.
 290.000 €
 
