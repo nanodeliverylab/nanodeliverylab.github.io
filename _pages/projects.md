@@ -7,19 +7,21 @@ sidebar:
   nav: "Projs"
 ---
 
+<br>
+
 2018-2022 <br>
 <em>Investigator Grant - IG 2017</em> funded by
 <em>Associazione Italiana per la Ricerca sul Cancro (AIRC)</em><br>
-Title: **Nanoparticle-enabled blood test for pancreatic cancer detection.**
+**Nanoparticle-enabled blood test for pancreatic cancer detection.**<br>
 Project id (Id. 20327).	
 452.000 € <br><br>
 
-2014-2017 
-Bando: Bando giovani ricercatori 2011-2012.
-Ente finanziatore: Ministero della Salute.
-Titolo del progetto: Exploiting the protein corona effect for biomarker discovery and targeting of nanomedicines in pancreatic cancer.
-Codice del progetto: (GR-2011-02350094).	
-Importo del finanziamento: 290.000 euro	**
+2014-2017 <br>
+<em>Bando giovani ricercatori 2011-2012</em> funded by
+<em>Ministero della Salute</em><br>
+**Exploiting the protein corona effect for biomarker discovery and targeting of nanomedicines in pancreatic cancer**<br>
+Project id GR-2011-02350094.
+290.000 €
 
 2010-2015
 Bando: FIRB - Futuro in Ricerca 
