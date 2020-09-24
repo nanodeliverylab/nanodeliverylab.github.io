@@ -14,21 +14,21 @@ sidebar:
 <em>Investigator Grant - IG 2017</em> funded by
 <em>Associazione Italiana per la Ricerca sul Cancro (AIRC)</em><br>
 Project id 20327.	
-452.000 € <br><br>
+452.000 € <br>
 
 2014-2017 <br>
 **Exploiting the protein corona effect for biomarker discovery and targeting of nanomedicines in pancreatic cancer.**<br>
 <em>Bando giovani ricercatori 2011-2012</em> funded by
 <em>Ministero della Salute</em><br>
 Project id GR-2011-02350094.
-290.000 € <br><br>
+290.000 € <br>
 
 2010-2015<br>
 **Comprensione delle interazioni tra cellule e nanoparticelle lipidiche per il trasporto genico.**<br>
 <em>Bando: FIRB - Futuro in Ricerca</em> funded by
 <em>Ministero per l’Università e la Ricerca (MIUR).</em><br>
 Project id: RBFR08TLPO_001.
-550.000 € <br><br>
+550.000 € <br>
 
 2014	
 Bando: Finanziamento di ateneo per la ricerca scientifica. Acquisizione di medie e grandi attrezzature scientifiche.
