@@ -9,7 +9,7 @@ sidebar:
 
 2018-2022 <br>
 <em>Investigator Grant - IG 2017</em> funded by
-<emAssociazione Italiana per la Ricerca sul Cancro (AIRC)</em><br>
+<em>Associazione Italiana per la Ricerca sul Cancro (AIRC)</em><br>
 Title: **Nanoparticle-enabled blood test for pancreatic cancer detection.**
 Project id (Id. 20327).	
 452.000 euro <br><br>
