@@ -3,11 +3,7 @@ layout: archive
 title: "Funded projects"
 permalink: /projects/
 author_profile: true
-sidebar:
-  nav: "Projs"
 ---
-
-<br>
 
 2018-2022 <br>
 **Nanoparticle-enabled blood test for pancreatic cancer detection.**<br>
