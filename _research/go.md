@@ -11,4 +11,6 @@ layout: archive
 
 text
 
+<div style="text-align: right"> 
+
 {% include publication-list-theme.html %}
