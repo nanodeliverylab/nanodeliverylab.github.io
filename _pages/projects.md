@@ -26,12 +26,12 @@ Project id GR-2011-02350094.
 Project id: RBFR08TLPO_001.
 550.000 € <br>
 
-2014	
-Bando: Finanziamento di ateneo per la ricerca scientifica. Acquisizione di medie e grandi attrezzature scientifiche.
-Ente finanziatore: Sapienza Università di Roma.
-Titolo del progetto: Lipid nanoparticle delivery of nucleic acids using the NanoAssemblr Technology.
-Codice del progetto: (C26G14T775).
-Importo del finanziamento: 25.000	euro*
+2014 <br>
+**Lipid nanoparticle delivery of nucleic acids using the NanoAssemblr Technology.**
+<em>Bando: Finanziamento di ateneo per la ricerca scientifica. Acquisizione di medie e grandi attrezzature scientifiche</em>
+funded by: <em>Sapienza Università di Roma.</em><br>
+Project id: C26G14T775.
+25.000 € <br>
 
 2013	
 Bando: Finanziamento di ateneo per la ricerca scientifica. 
