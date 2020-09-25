@@ -34,11 +34,11 @@ Project id: C26G14T775.
 25.000 € <br>
 
 2013	
-Bando: Finanziamento di ateneo per la ricerca scientifica. 
-Ente finanziatore: Sapienza Università di Roma.
-Titolo del progetto: Progettazione e produzione di una nuova piattaforma tecnologica per il drug delivery: le “Protocellule.
-Codice del progetto: (C26A13WKBP).
-Importo del finanziamento: 6.000	euro *
+**Titolo del progetto: Progettazione e produzione di una nuova piattaforma tecnologica per il drug delivery: le “Protocellule.**
+<em>Finanziamento di ateneo per la ricerca scientifica</em>
+funded by: <em>Sapienza Università di Roma.</em><br>
+Project id: C26A13WKBP.
+6.000	€ <br>
 
 2013	
 Bando: Finanziamento di ateneo per la ricerca scientifica. Acquisizione di medie e grandi attrezzature scientifiche.
