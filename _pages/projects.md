@@ -41,14 +41,14 @@ Project id: C26A13WKBP.<br>
 6.000	€ <br>
 
 2013 <br>
-**Ultra HPLC-spettrometria di massa ad alta risoluzione mediante strumento Exactive Plus per l’analisi di metaboliti e composti polipeptidici in alimenti e matrici**<br>
+**Ultra HPLC-spettrometria di massa ad alta risoluzione mediante strumento Exactive Plus per l’analisi di metaboliti e composti polipeptidici in alimenti e matrici.**<br>
 <em>Finanziamento di ateneo per la ricerca scientifica. Acquisizione di medie e grandi attrezzature scientifiche</em><br>
 funded by: <em>Sapienza Università di Roma.</em><br>
 Project id: C26G137XTB. <br>
 300.000	€ <br>
 
 2012 <br>
-**Nanotecnologie innovative per il trattamento dei tumori** <br>
+**Nanotecnologie innovative per il trattamento dei tumori.** <br>
 <em>Finanziamento di ateneo per la ricerca scientifica</em> <br>
 funded by: <em>Sapienza Università di Roma.</em><br>
 Project id: C26A12Z7PK.<br>
@@ -69,7 +69,7 @@ Project id: C26A114NCM.	<br>
 80.000	€ <br>
 
 2010	<br>
-**Sviluppo di nano-vettori non virali a multicomponenti per il gene delivery**<br>
+**Sviluppo di nano-vettori non virali a multicomponenti per il gene delivery.**<br>
 <em>Programmi di Ricerca Scientifica di Rilevante Interesse Nazionale (PRIN 2009)</em><br>
 funded by: <em>Ministero per l’Università e la Ricerca (MIUR).</em><br>
 Project id: 2009ACFPN9_002.<br>
