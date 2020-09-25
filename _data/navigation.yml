@@ -3,7 +3,7 @@ main:
   #- title: "News"
   #  url: /news/
 
-  - title: "Research themes"
+  - title: "Research"
     url: /research/
 
   - title: "Team"
