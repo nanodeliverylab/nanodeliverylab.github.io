@@ -77,22 +77,22 @@ Project id: 2009ACFPN9_002.<br>
 
 2010	<br>
 **Novel Multicomponent Envelope-type Nanoparticle System (MENS) for Gene Delivery.**<br>
-Bando: Finanziamento di ateneo per la ricerca scientifica. 
-Ente finanziatore: Sapienza Università di Roma.
-Codice del progetto: C26A10TLAY).
+<em>Finanziamento di ateneo per la ricerca scientifica</em><br>
+funded by: <em>Sapienza Università di Roma.</em><br>
+Project id: 26A10TLAY.<br>
 Importo del finanziamento: 5.000	€ <br>
 
 2009	<br>
 **Verso la progettazione razionale di nanovettori lipidici per il trasporto genico: studio dell'interazione vettore-membrana plasmatica.**<br>
-Bando: Ricerche di ATENEO FEDERATO di Scienze delle Politiche Pubbliche e Sanitarie SPPS.
-Ente finanziatore: Sapienza Università di Roma.
-Codice del progetto: (C26F09F87M).	
-Importo del finanziamento: 8.768	€ <br>
+<em>Ricerche di ATENEO FEDERATO di Scienze delle Politiche Pubbliche e Sanitarie SPPS</em><br>
+funded by: <em>Sapienza Università di Roma.</em><br>
+Project id: C26F09F87M.<br>	
+8.768	€ <br>
 
 2008	<br>
 **Nanosistemi lipidici a multicomponenti per la trasfezione cellulare.**<br>
-Bando: Ricerche di ATENEO FEDERATO di Scienze delle Politiche Pubbliche e Sanitarie SPPS.
-Ente finanziatore: Sapienza Università di Roma.
-Codice del progetto: (C26F08LJAE).	
-Importo del finanziamento: 2.400	€ <br>
+<em>Ricerche di ATENEO FEDERATO di Scienze delle Politiche Pubbliche e Sanitarie SPPS</em><br>
+funded by: <em>Sapienza Università di Roma.</em>
+Project id: C26F08LJAE.<br>	
+2.400	€ <br>
 
