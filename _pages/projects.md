@@ -80,7 +80,7 @@ Project id: 2009ACFPN9_002.<br>
 <em>Finanziamento di ateneo per la ricerca scientifica</em><br>
 funded by: <em>Sapienza Università di Roma.</em><br>
 Project id: 26A10TLAY.<br>
-Importo del finanziamento: 5.000	€ <br>
+5.000	€ <br>
 
 2009	<br>
 **Verso la progettazione razionale di nanovettori lipidici per il trasporto genico: studio dell'interazione vettore-membrana plasmatica.**<br>
@@ -92,7 +92,7 @@ Project id: C26F09F87M.<br>
 2008	<br>
 **Nanosistemi lipidici a multicomponenti per la trasfezione cellulare.**<br>
 <em>Ricerche di ATENEO FEDERATO di Scienze delle Politiche Pubbliche e Sanitarie SPPS</em><br>
-funded by: <em>Sapienza Università di Roma.</em>
+funded by: <em>Sapienza Università di Roma.</em><br>
 Project id: C26F08LJAE.<br>	
 2.400	€ <br>
 
