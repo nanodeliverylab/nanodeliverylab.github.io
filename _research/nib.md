@@ -1,5 +1,5 @@
 ---
-title: "Nanoparticle-enabled blood tests for the early detection of cancers"
+title: "Nanoparticle-enabled blood tests for cancer's detection"
 type: "nib"
 collection: research
 date: 2018-01-01
