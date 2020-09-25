@@ -6,7 +6,7 @@ authors: 'Ana Lilia Barrán-Berdón, Daniela Pozzi, Giulio Caracciolo, Anna Laur
 paperurl: https://pubs.acs.org/doi/abs/10.1021/la401192x
 doi: 10.1021/la401192x
 type: 'Paper'
-theme: 'lipo'
+theme: 'lipo,delivery'
 resources: ''
 ---
 
