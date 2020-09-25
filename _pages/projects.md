@@ -9,14 +9,14 @@ author_profile: true
 **Nanoparticle-enabled blood test for pancreatic cancer detection.**<br>
 <em>Investigator Grant - IG 2017</em><br> funded by
 <em>Associazione Italiana per la Ricerca sul Cancro (AIRC)</em><br>
-Project id 20327.	<br>
+Project id: 20327.	<br>
 452.000 € <br>
 
 2014-2017 <br>
 **Exploiting the protein corona effect for biomarker discovery and targeting of nanomedicines in pancreatic cancer.**<br>
 <em>Bando giovani ricercatori 2011-2012</em><br> funded by
 <em>Ministero della Salute</em><br>
-Project id GR-2011-02350094.<br>
+Project id: GR-2011-02350094.<br>
 290.000 € <br>
 
 2010-2015<br>
@@ -70,10 +70,10 @@ Project id: C26A114NCM.	<br>
 
 2010	<br>
 **Sviluppo di nano-vettori non virali a multicomponenti per il gene delivery**<br>
-Bando: Programmi di Ricerca Scientifica di Rilevante Interesse Nazionale (PRIN 2009).
-Ente finanziatore: Ministero per l’Università e la Ricerca (MIUR).
-Codice del progetto: (2009ACFPN9_002).
-Importo del finanziamento: 61.600	€ <br>
+<em>Programmi di Ricerca Scientifica di Rilevante Interesse Nazionale (PRIN 2009)</em><br>
+funded by: <em>Ministero per l’Università e la Ricerca (MIUR).</em><br>
+Project id: 2009ACFPN9_002.<br>
+61.600	€ <br>
 
 2010	<br>
 **Novel Multicomponent Envelope-type Nanoparticle System (MENS) for Gene Delivery.**<br>
