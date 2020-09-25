@@ -6,7 +6,7 @@ authors: 'Sara Palchetti, Valentina Colapicchioni, Luca Digiacomo, Giulio Caracc
 paperurl: https://www.sciencedirect.com/science/article/pii/S0005273615003843
 doi: 10.1016/j.bbamem.2015.11.012
 type: 'Paper'
-theme: 'lipo'
+theme: 'lipo, delivery'
 resources: ''
 ---
 
