@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Science Seminars, Talks and Workshops"
+title: "Talks and conferences"
 permalink: /talks/
 author_profile: true
 ---
