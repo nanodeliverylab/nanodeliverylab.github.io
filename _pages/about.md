@@ -1,4 +1,5 @@
 ---
+title: "NanoDelivery Lab"
 permalink: /
 layout: archive
 excerpt: "Smart Nanomaterials"
@@ -9,8 +10,6 @@ redirect_from:
 image_sliders:
   - home
 ---
-
-### NanoDelivery Lab
 
 {% include slider.html selector="home" %}
 
