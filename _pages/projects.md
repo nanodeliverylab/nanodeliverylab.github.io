@@ -34,7 +34,7 @@ Project id: C26G14T775.
 25.000 € <br>
 
 2013 <br>
-**Titolo del progetto: Progettazione e produzione di una nuova piattaforma tecnologica per il drug delivery: le “Protocellule.**<br>
+**Progettazione e produzione di una nuova piattaforma tecnologica per il drug delivery: le “Protocellule.**<br>
 <em>Finanziamento di ateneo per la ricerca scientifica</em>
 funded by: <em>Sapienza Università di Roma.</em><br>
 Project id: C26A13WKBP.
@@ -54,45 +54,45 @@ funded by: <em>Sapienza Università di Roma.</em><br>
 Project id: C26A12Z7PK.
 6.000	€ <br>
 
-2012	
-Bando: Finanziamento di ateneo per la ricerca scientifica. 
-Ente finanziatore: Sapienza Università di Roma.
-Titolo del progetto: Studi "multi-omics" ad alta efficienza ed altissima risoluzione di sistemi biologici complessi.
-Codice del progetto: (C26G12SPTR).	
-Importo del finanziamento: 50.000	€ <br>
+2012 <br>
+**Studi "multi-omics" ad alta efficienza ed altissima risoluzione di sistemi biologici complessi.**<br>
+<em>Finanziamento di ateneo per la ricerca scientifica</em>
+funded by: <em>Sapienza Università di Roma.</em><br>
+Project id: C26G12SPTR.	
+50.000	€ <br>
 
-2011	
-Bando: Finanziamento di ateneo per la ricerca scientifica. 
-Ente finanziatore: Sapienza Università di Roma.
-Titolo del progetto:  Analytical, biological and biophysical methodologies to study the mechanisms of gene delivery in living cells.
-Codice del progetto: (C26A114NCM).	
-Importo del finanziamento: 80.000	€ <br>
+2011 <br>
+**Analytical, biological and biophysical methodologies to study the mechanisms of gene delivery in living cells.**<br>
+<em>Finanziamento di ateneo per la ricerca scientifica</em> 
+funded by: <em>Sapienza Università di Roma.</em><br>
+Project id: C26A114NCM.	
+80.000	€ <br>
 
-2010	
+2010	<br>
+**Sviluppo di nano-vettori non virali a multicomponenti per il gene delivery**<br>
 Bando: Programmi di Ricerca Scientifica di Rilevante Interesse Nazionale (PRIN 2009).
 Ente finanziatore: Ministero per l’Università e la Ricerca (MIUR).
-Titolo del progetto: Sviluppo di nano-vettori non virali a multicomponenti per il gene delivery
 Codice del progetto: (2009ACFPN9_002).
 Importo del finanziamento: 61.600	€ <br>
 
-2010	
+2010	<br>
+**Novel Multicomponent Envelope-type Nanoparticle System (MENS) for Gene Delivery.**<br>
 Bando: Finanziamento di ateneo per la ricerca scientifica. 
 Ente finanziatore: Sapienza Università di Roma.
-Titolo del progetto: Novel Multicomponent Envelope-type Nanoparticle System (MENS) for Gene Delivery.
 Codice del progetto: C26A10TLAY).
 Importo del finanziamento: 5.000	€ <br>
 
-2009	
+2009	<br>
+**Verso la progettazione razionale di nanovettori lipidici per il trasporto genico: studio dell'interazione vettore-membrana plasmatica.**<br>
 Bando: Ricerche di ATENEO FEDERATO di Scienze delle Politiche Pubbliche e Sanitarie SPPS.
 Ente finanziatore: Sapienza Università di Roma.
-Titolo del progetto: Verso la progettazione razionale di nanovettori lipidici per il trasporto genico: studio dell'interazione vettore-membrana plasmatica.
 Codice del progetto: (C26F09F87M).	
 Importo del finanziamento: 8.768	€ <br>
 
-2008	
+2008	<br>
+**Nanosistemi lipidici a multicomponenti per la trasfezione cellulare.**<br>
 Bando: Ricerche di ATENEO FEDERATO di Scienze delle Politiche Pubbliche e Sanitarie SPPS.
 Ente finanziatore: Sapienza Università di Roma.
-Titolo del progetto: Nanosistemi lipidici a multicomponenti per la trasfezione cellulare.
 Codice del progetto: (C26F08LJAE).	
 Importo del finanziamento: 2.400	€ <br>
 
