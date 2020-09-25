@@ -33,7 +33,7 @@ funded by: <em>Sapienza Università di Roma.</em><br>
 Project id: C26G14T775.
 25.000 € <br>
 
-2013	
+2013 <br>
 **Titolo del progetto: Progettazione e produzione di una nuova piattaforma tecnologica per il drug delivery: le “Protocellule.**
 <em>Finanziamento di ateneo per la ricerca scientifica</em>
 funded by: <em>Sapienza Università di Roma.</em><br>
