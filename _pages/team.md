@@ -71,6 +71,6 @@ veicolazione di Temozolomide nei tumori cerebrali.</em> 2019<br><br>
 
 <hr-bold>
 
-<div style="text-align: right">
+<div style="text-align: left">
 <img src='/images/FumettoLab.jpg' style='width: 50%'>
 </div>
