@@ -1,5 +1,5 @@
 ---
-title: "Nanomaterials for cancer's detection"
+title: "Nanomaterials for the detection of cancers"
 type: "nib"
 collection: research
 date: 2018-01-01
