@@ -17,13 +17,11 @@
   captions: True
   images:
     - src: /images/NanoScaleHoriz_cut.jpg
-      alt: caption1
+      alt: 
     - src: /images/liposome-corona-box.png
-      alt: caption2
+      alt: 
     - src: /images/tocboh.jpg
-      alt: caption3
-    - src: /images/FumettoLab.jpg
-      alt: Hello World!
+      alt: 
   settings:
     height:  "'auto'"
     interval: 5000
