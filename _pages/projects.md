@@ -40,11 +40,12 @@ funded by: <em>Sapienza Università di Roma.</em><br>
 Project id: C26A13WKBP.
 6.000	€ <br>
 
-2013	
-Bando: Finanziamento di ateneo per la ricerca scientifica. Acquisizione di medie e grandi attrezzature scientifiche.
-Ente finanziatore: Sapienza Università di Roma.
-Titolo del progetto: Ultra HPLC-spettrometria di massa ad alta risoluzione mediante strumento Exactive Plus per l’analisi di metaboliti e composti polipeptidici in alimenti e matrici biologiche Codice del progetto: (C26G137XTB)
-Importo del finanziamento: 300.000	 euro **
+2013 <br>
+**Ultra HPLC-spettrometria di massa ad alta risoluzione mediante strumento Exactive Plus per l’analisi di metaboliti e composti polipeptidici in alimenti e matrici**
+<em>Finanziamento di ateneo per la ricerca scientifica. Acquisizione di medie e grandi attrezzature scientifiche</em>
+funded by: <em>Sapienza Università di Roma.</em>
+Project id: C26G137XTB.
+300.000	€ <br>
 
 2012
 Bando: Finanziamento di ateneo per la ricerca scientifica. 
