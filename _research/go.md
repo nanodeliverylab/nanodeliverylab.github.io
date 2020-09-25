@@ -5,7 +5,7 @@ collection: research
 date: 2018-01-01
 author_profile: true
 header:
-  teaser: go.jpg
+  teaser: go.png
 layout: archive
 ---
 
