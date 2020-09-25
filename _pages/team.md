@@ -70,7 +70,8 @@ veicolazione di Temozolomide nei tumori cerebrali.</em> 2019<br><br>
 <strong>Alessandro Rossetta</strong>. Master's thesis. <em>title...</em> <br><br>
 
 <hr-bold>
-
+<br>
+  
 <div style="text-align: left">
 <img src='/images/FumettoLab.jpg' style='width: 50%'>
 </div>
