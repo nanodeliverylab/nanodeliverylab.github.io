@@ -12,10 +12,10 @@ main:
   - title: "Resources"
     url: /resources/ 
   
-   - title: "Collaborations"
+  - title: "Collaborations"
     url: /collaborations/
     
-   - title: "Funded projects"
+  - title: "Funded projects"
     url: /projects/
   
   #- title: "Positions"
