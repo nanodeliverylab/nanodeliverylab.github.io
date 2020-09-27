@@ -1,19 +1,19 @@
 ---
-title: "This website"
+title: "image Mean Square Displacement"
 type: "other"
 collection: resources
 author_profile: true
 header:
-  teaser: logo_lab.jpg
+  teaser: iMSD.jpg
 layout: archive
-uri: https://github.com/nanodeliverylab/nanodeliverylab.github.io
+uri: https://springernature.figshare.com/articles/iMSD_code/6146495/1
 date: 20120-09-01
 contributors: "Luca Digiacomo"
 ---
 <p align= "justify">
 
-This entire website can be cloned as a template, adapted and reused for your own purposes. Do make sure to remove any previous links to information about researchers.
+Matlab script for image Mean Square Displacement analysis of confocal time series.
 
 <br><br>
 
-🔗<b><u><a href="{{ page.uri }}">Source-Code Repository</a></u></b>
+🔗<b><u><a href="{{ page.uri }}">Source-Code</a></u></b>
