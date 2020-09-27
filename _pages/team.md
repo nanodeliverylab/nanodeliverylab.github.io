@@ -5,7 +5,6 @@ permalink: /team/
 author_profile: true
 ---
 
-<br>
 <h2>Principal Investigators</h2>
 <hr><br>
 <div class="grid">
