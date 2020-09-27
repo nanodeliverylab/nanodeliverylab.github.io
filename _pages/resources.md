@@ -20,7 +20,7 @@ author_profile: true
 </div>
 
 <h2>By others with our contribution</h2>
-<hr><br>
+<hr>
 <div class="grid">
   <div class="wrapper">
     {% for post in site.resources %}
@@ -32,7 +32,7 @@ author_profile: true
 </div>
 
 <h2>Other tools</h2>
-<hr><br>
+<hr>
 <div class="grid">
   <div class="wrapper">
     {% for post in site.resources %}
