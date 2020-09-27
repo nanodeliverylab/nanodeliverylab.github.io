@@ -64,7 +64,7 @@ veicolazione di Temozolomide nei tumori cerebrali.</em> 2019<br><br>
 <strong>Giorgia La Barbera</strong>. Master's thesis. <em>title...</em> <br><br>
 <strong>Alessandro Rossetta</strong>. Master's thesis. <em>title...</em> <br><br>
 
-<br>
+<hr>
   
 <div style="text-align: center">
 <img src='/images/FumettoLab.jpg' style='width: 50%'>
