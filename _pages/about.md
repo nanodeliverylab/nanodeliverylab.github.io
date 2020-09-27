@@ -1,5 +1,5 @@
 ---
-title: "NanoDelivery Lab"
+title: 
 permalink: /
 layout: archive
 excerpt: "Smart Nanomaterials"
