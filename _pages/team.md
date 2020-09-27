@@ -5,7 +5,7 @@ permalink: /team/
 author_profile: true
 ---
 
-<hr-bold>
+<br>
 <h2>Principal Investigators</h2>
 <hr><br>
 <div class="grid">
@@ -65,7 +65,7 @@ veicolazione di Temozolomide nei tumori cerebrali.</em> 2019<br><br>
 <strong>Giorgia La Barbera</strong>. Master's thesis. <em>title...</em> <br><br>
 <strong>Alessandro Rossetta</strong>. Master's thesis. <em>title...</em> <br><br>
 
-<hr-bold>
+<br>
 <br>
   
 <div style="text-align: center">
