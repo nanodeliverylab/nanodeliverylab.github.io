@@ -7,15 +7,12 @@ header:
   teaser: iMSD.jpg
 uri: https://springernature.figshare.com/articles/iMSD_code/6146495/1
 date: 20120-09-01
-<<<<<<< HEAD:_resources/32_iMSD_code.md
 contributors: "Digiacomo"
-=======
->>>>>>> 695bcf367c9c1da426a95e70632f30ad02746a62:_resources/iMSD_code.md
 ---
 
 <p align= "justify">
 
-Matlab script for image Mean Square Displacement analysis of confocal time series.
+Matlab script for image Mean Square Displacement analysis of confocal time series. Based on the paper <em>Digiacomo, Luca, et al. Acta biomaterialia 42 (2016): 189-198.</em>
 
 <br><br>
 
