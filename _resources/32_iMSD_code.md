@@ -12,7 +12,7 @@ contributors: "Digiacomo"
 
 <p align= "justify">
 
-Matlab script for image Mean Square Displacement analysis of confocal time series. Based on the paper <em>Digiacomo, Luca, et al. Acta biomaterialia 42 (2016): 189-198.</em>
+Matlab script for image Mean Square Displacement analysis of confocal time series. Based on the paper <em>"Digiacomo et al. Acta biomaterialia 42 (2016): 189-198."</em>
 
 <br><br>
 
