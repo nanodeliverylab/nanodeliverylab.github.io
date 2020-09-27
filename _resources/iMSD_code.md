@@ -20,4 +20,5 @@ Matlab script for image Mean Square Displacement analysis of confocal time serie
 
 <br>
 
-🔗<b><u><a href={"https://springernature.figshare.com/articles/dataset/Tutorial/6146489"}>Manual</a></u></b>
+🔗<b><u><a href="https://springernature.figshare.com/articles/dataset/Tutorial/6146489">Manual</a><span class="info"></u></b>
+
