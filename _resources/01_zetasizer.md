@@ -1,6 +1,5 @@
 ---
 title: "Zetasizer Nano"
-tag: ""
 type: "instrument"
 collection: resources
 author_profile: true
