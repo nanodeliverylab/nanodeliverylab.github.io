@@ -9,17 +9,17 @@ main:
   - title: "Team"
     url: /team/
     
-  - title: "Funded projects"
+  - title: "Resources"
+    url: /resources/ 
+  
+   - title: "Collaborations"
+    url: /collaborations/
+    
+   - title: "Funded projects"
     url: /projects/
   
-  - title: "Collaborations"
-    url: /collaborations/
-
   #- title: "Positions"
   #  url: /positions/
-
-  - title: "Resources"
-    url: /resources/
 
   #- title: "Outreach"
   #  url: /outreach/
