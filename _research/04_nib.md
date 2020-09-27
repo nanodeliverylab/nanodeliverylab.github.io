@@ -6,7 +6,6 @@ date: 2018-01-01
 author_profile: true
 header:
   teaser: nib.jpg
-layout: archive
 ---
 
 text
