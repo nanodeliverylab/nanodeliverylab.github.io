@@ -6,7 +6,6 @@ author_profile: true
 date: 2014-01-01
 header:
   teaser: SAXS.jpg
-layout: archive
 
 ---
 <p align= "justify">
