@@ -5,7 +5,6 @@ collection: resources
 author_profile: true
 header:
   teaser: logo_lab.jpg
-layout: archive
 uri: https://github.com/nanodeliverylab/nanodeliverylab.github.io
 date: 2020-09-01
 contributors: "Digiacomo"
