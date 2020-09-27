@@ -4,6 +4,7 @@ title: "Resources"
 permalink: /resources/
 author_profile: true
 ---
+
 {% include base_path %}
 
 <div class="grid">
