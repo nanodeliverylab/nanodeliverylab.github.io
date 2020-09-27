@@ -5,13 +5,13 @@ permalink: /team/
 author_profile: true
 ---
 
-<hr-bold>
+<br>
 <h2>Principal Investigators</h2>
 <hr><br>
 <div class="grid">
 <div class="wrapper">
   {% for post in site.team %}
-    {% if post.tags contains 'PI' %}
+    {% if post.type contains 'PI' %}
       {% include archive-single-proj.html type="grid" %}
     {% endif %}
   {% endfor %}
@@ -23,7 +23,7 @@ author_profile: true
 <div class="grid">
 <div class="wrapper">
   {% for post in site.team %}
-    {% if post.tags contains 'post-doc' %}
+    {% if post.type contains 'post-doc' %}
       {% include archive-single-proj.html type="grid" %}
     {% endif %}
   {% endfor %}
@@ -47,7 +47,7 @@ author_profile: true
 <div class="grid">
 <div class="wrapper">
   {% for post in site.team %}
-    {% if post.tags contains 'internship' %}
+    {% if post.type contains 'internship' %}
       {% include archive-single-proj.html type="grid" %}
     {% endif %}
   {% endfor %}
@@ -65,7 +65,6 @@ veicolazione di Temozolomide nei tumori cerebrali.</em> 2019<br><br>
 <strong>Giorgia La Barbera</strong>. Master's thesis. <em>title...</em> <br><br>
 <strong>Alessandro Rossetta</strong>. Master's thesis. <em>title...</em> <br><br>
 
-<hr-bold>
 <br>
   
 <div style="text-align: center">
