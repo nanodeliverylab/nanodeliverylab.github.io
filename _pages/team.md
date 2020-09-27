@@ -5,9 +5,8 @@ permalink: /team/
 author_profile: true
 ---
 
-<br>
 <h2>Principal Investigators</h2>
-<hr><br>
+<hr>
 <div class="grid">
 <div class="wrapper">
   {% for post in site.team %}
@@ -19,7 +18,7 @@ author_profile: true
 </div>
 
 <h2>Post-doctoral researchers</h2>
-<hr><br>
+<hr>
 <div class="grid">
 <div class="wrapper">
   {% for post in site.team %}
@@ -31,7 +30,7 @@ author_profile: true
   </div>
 
 <h2>PhD students</h2>
-<hr><br>
+<hr>
 <div class="grid">
 <div class="wrapper">
   {% for post in site.team %}
@@ -43,7 +42,7 @@ author_profile: true
 </div>
 
 <h2>Internship students</h2>
-<hr><br>
+<hr>
 <div class="grid">
 <div class="wrapper">
   {% for post in site.team %}
@@ -56,7 +55,7 @@ author_profile: true
 
 <h2>Former lab members</h2>
 
-<hr><br>
+<hr>
 <strong>Laura Scarpati</strong>. Master's thesis. <em>Ruolo della corona proteica artificiale nella veicolazione di materiale genetico mediata da liposomi cationici.</em> 2020<br><br>
 <strong>Benedetta Soccodato</strong>. Master's thesis. <em>Preparazione, caratterizzazione chimico-fisica e validazione in vitro di formulazioni liposomiali per la
 veicolazione di Temozolomide nei tumori cerebrali.</em> 2019<br><br>
