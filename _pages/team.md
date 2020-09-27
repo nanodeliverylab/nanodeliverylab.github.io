@@ -35,7 +35,7 @@ author_profile: true
 <div class="grid">
 <div class="wrapper">
   {% for post in site.team %}
-    {% if post.tags contains 'phd' %}
+    {% if post.type contains 'phd' %}
       {% include archive-single-proj.html type="grid" %}
     {% endif %}
   {% endfor %}
