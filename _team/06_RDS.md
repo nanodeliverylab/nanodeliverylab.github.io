@@ -4,8 +4,7 @@ authorname: "Di Santo"
 collection: team
 header: 
   teaser: RDS_image.jpg
-tags: phd
-tagline: PhD
+type: phd
 subject: "text..."
 date: 2013-09-01
 email: 'riccardo.disanto@uniroma1.it'
