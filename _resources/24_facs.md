@@ -6,7 +6,7 @@ author_profile: true
 date: 2014-01-04
 header:
   teaser: facs.jpg
-
+contributors: "Zingoni"
 ---
 <p align= "justify">
 
