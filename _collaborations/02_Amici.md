@@ -5,8 +5,8 @@ collection: collaborations
 header:
   teaser: person.png
 date-start: 2000-01-01
-tagline: "Institute of ..."
-subject: "Institute of ..., University of Camerino. Camerino (MC), Italy"
+tagline: "University of Camerino"
+subject: "University of Camerino. Camerino (MC), Italy"
 email: ''
 ---
 
