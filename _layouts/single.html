@@ -49,7 +49,7 @@ layout: default
             <p> <b>{{ page.subject }}</b>
 
             {% if page.collection == "collaborations" %}
-             <!-- <br> Started on {{ page.date-start | default: "1900-01-01" | date: "%B, %Y" }}
+            <br> <!-- <br> Started on {{ page.date-start | default: "1900-01-01" | date: "%B, %Y" }}
             {% elsif page.date-start %}
               <br> Started {{ page.date-start | default: "1900-01-01" | date: "%B, %Y" }}; ended {{ page.date-end | default: "1900-01-01" | date: "%B, %Y" }}
             {% elsif page.date %}
