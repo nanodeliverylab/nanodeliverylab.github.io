@@ -4,7 +4,7 @@ authorname: "Amenitsch"
 collection: collaborations
 header:
   teaser: person.png
-date: ?
+date: 2000-01-01
 tagline: "Institute of Inorganic Chemistry, Graz University of Technology, Austria"
 subject: "Institute of Inorganic Chemistry, Graz University of Technology, Austria"
 email: ''
