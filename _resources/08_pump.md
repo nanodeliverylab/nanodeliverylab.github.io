@@ -1,5 +1,5 @@
 ---
-title: "Fluid dynamics"
+title: "Peristaltic pump"
 type: "instrument"
 collection: resources
 author_profile: true
