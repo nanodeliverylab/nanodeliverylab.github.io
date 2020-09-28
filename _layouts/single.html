@@ -66,6 +66,9 @@ layout: default
             {% if page.email %}
               <br><br><a href="mailto:{{ page.email }}" style="text-decoration: none"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a>
             {% endif %}
+            {% if page.scopus %}
+              <br><br><a href="{{ page.scopus }}" style="text-decoration: none"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Scopus</a>
+            {% endif %}
             {% if page.googlescholar %}
               <br><a href="{{ page.googlescholar }}" style="text-decoration: none"><i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar</a>
             {% endif %}
