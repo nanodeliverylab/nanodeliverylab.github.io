@@ -1,5 +1,5 @@
 ---
-title: "Microfluidics"
+title: "Microfluidic mixing"
 type: "instrument"
 collection: resources
 author_profile: true
