@@ -14,7 +14,10 @@ main:
   
   - title: "Collaborations"
     url: /collaborations/
-    
+  
+  - title: "Publications"
+    url: /publications/  
+  
   - title: "Projects"
     url: /projects/
   
@@ -23,9 +26,6 @@ main:
 
   #- title: "Outreach"
   #  url: /outreach/
-  
-  - title: "Publications"
-    url: /publications/
   
   - title: "Talks"
     url: /talks/
