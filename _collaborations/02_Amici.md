@@ -5,8 +5,8 @@ collection: collaborations
 header:
   teaser: person.png
 date-start: 2000-01-01
-tagline: "University of Camerino"
-subject: "University of Camerino. Camerino (MC), Italy"
+tagline: "School of Biosciences and Veterinary Medicine, University of Camerino"
+subject: "School of Biosciences and Veterinary Medicine,University of Camerino. Camerino (MC), Italy"
 email: ''
 ---
 
