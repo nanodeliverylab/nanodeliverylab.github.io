@@ -4,6 +4,9 @@ title: "Collaborations"
 permalink: /collaborations/
 author_profile: true
 ---
+
+Principal Investigators of the teams collaborating with our group
+
 {% include base_path %}
 
 <div class="grid">
