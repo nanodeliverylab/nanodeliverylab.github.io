@@ -1,5 +1,5 @@
 ---
-title: "Zetasizer Nano"
+title: "Dynamic light scattering"
 type: "instrument"
 collection: resources
 author_profile: true
