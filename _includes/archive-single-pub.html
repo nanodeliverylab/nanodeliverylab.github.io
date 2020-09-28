@@ -127,9 +127,9 @@
                 {% for collaborator in site.collaborations %}
                   {% if author contains collaborator.authorname %}
                     {% if author != authors[nauthors] %}
-                      <a href="{{ collaborator.url }}"><u>{{ author }}</u></a>,
+                      <a href="{{ collaborator.url }}">{{ author }}</a>,
                     {% else %}
-                      <a href="{{ collaborator.url }}"><u>{{ author }}</u></a>
+                      <a href="{{ collaborator.url }}">{{ author }}</a>
                     {% endif %}
                     {% assign found = true %}
                   {% endif %}
