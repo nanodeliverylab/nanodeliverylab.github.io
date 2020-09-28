@@ -1,5 +1,5 @@
 ---
-title: "Spectrophotometer"
+title: "Spectrophotometry"
 type: "instrument"
 collection: resources
 author_profile: true
