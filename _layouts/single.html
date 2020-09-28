@@ -57,9 +57,6 @@ layout: default
                <br><i>Supervision: {{ page.supervisors }}</i>
             {% endif %}
 
-            {% if page.cv %}
-              <br><a href="'{{ page.cv }}'" style="text-decoration: none"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> CV</a>
-            {% endif %}
             {% if page.uri %}
               <br><a href="{{ page.uri }}" style="text-decoration: none"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a>
             {% endif %}
@@ -67,7 +64,10 @@ layout: default
               <br><br><a href="mailto:{{ page.email }}" style="text-decoration: none"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a>
             {% endif %}
             {% if page.scopus %}
-              <br><br><a href="{{ page.scopus }}" style="text-decoration: none"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Scopus</a>
+              <br><a href="{{ page.scopus }}" style="text-decoration: none"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Scopus</a>
+            {% endif %}
+            {% if page.cv %}
+              <br><a href="{{ page.cv }}" style="text-decoration: none"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Curriculum Vitae</a>
             {% endif %}
             {% if page.googlescholar %}
               <br><a href="{{ page.googlescholar }}" style="text-decoration: none"><i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar</a>
