@@ -1,5 +1,5 @@
 ---
-title: "Nanoassemblr"
+title: "Microfluidic manufacturing"
 type: "instrument"
 collection: resources
 author_profile: true
