@@ -1,5 +1,5 @@
 ---
-title: "Microfluidic manufacturing"
+title: "Microfluidics"
 type: "instrument"
 collection: resources
 author_profile: true
