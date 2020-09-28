@@ -1,0 +1,17 @@
+---
+title: "Damiano Caupto"
+authorname: "Caputo"
+collection: collaborations
+header:
+  teaser: person.png
+date-start: 2000-01-01
+tagline: "University Campus Biomedico di Roma"
+subject: "University Campus Biomedico di Roma. Rome, Italy"
+email: ''
+---
+
+{% include author-research-resources.html %}
+
+<div style="text-align: right"> 
+
+{% include publication-list.html %}
