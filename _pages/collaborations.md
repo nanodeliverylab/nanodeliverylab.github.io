@@ -5,7 +5,7 @@ permalink: /collaborations/
 author_profile: true
 ---
 
-Principal Investigators of the teams working with our group:
+Principal Investigators of the research groups working with us:
 
 {% include base_path %}
 
