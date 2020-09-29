@@ -1,0 +1,22 @@
+---
+title: "Riccardo Di Santo"
+authorname: "Di Santo"
+collection: team
+header: 
+  teaser: RDS_image.jpg
+type: phd
+tagline: PhD student
+subject: "text..."
+date: 2013-09-01
+email: 'riccardo.disanto@uniroma1.it'
+
+---
+
+
+<p align= "justify">
+
+TEXT bio, description, ...; <br>
+
+<div style="text-align: right"> 
+
+{% include publication-list.html %}
