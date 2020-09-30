@@ -3,7 +3,7 @@ title: "Alessandro Rossetta"
 authorname: "Rossetta"
 collection: collaborations
 header:
-  teaser: person.png
+  teaser: Photo_Rossetta.jpg
 date-start: 2000-01-01
 tagline: "Nanoscopy and NIC@IIT, Istituto Italiano di Tecnologia, Genova, Italy "
 subject: "Nanoscopy and NIC@IIT, Istituto Italiano di Tecnologia, Genova, Italy "
