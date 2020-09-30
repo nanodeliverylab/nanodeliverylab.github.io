@@ -3,7 +3,7 @@ title: "Morteza Mahmoudi"
 authorname: "Mahmoudi"
 collection: collaborations
 header:
-  teaser: Headshot_Mosrteza.jpg
+  teaser: Headshot_Morteza.jpg
 date-start: 2000-01-01
 tagline: "Department of Radiology and Precision Health Program, Michigan State University"
 subject: "Department of Radiology and Precision Health Program, Michigan State University, East Lansing, USA"
