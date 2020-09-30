@@ -10,8 +10,6 @@ subject: "Institute of Physics, Fondazione Policlinico Universitario A. Gemelli,
 email: ''
 ---
 
-{% include author-research-resources.html %}
-
 <div style="text-align: right"> 
 
 {% include publication-list.html %}
