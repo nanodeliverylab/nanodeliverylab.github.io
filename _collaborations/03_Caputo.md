@@ -10,8 +10,6 @@ subject: "Department of Surgery, University Campus-Biomedico di Roma. Rome, Ital
 email: ''
 ---
 
-{% include author-research-resources.html %}
-
 <div style="text-align: right"> 
 
 {% include publication-list.html %}
