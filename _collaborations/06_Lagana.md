@@ -3,7 +3,7 @@ title: "Aldo Laganà"
 authorname: "Laganà"
 collection: collaborations
 header:
-  teaser: Photo_Lagana.png
+  teaser: Photo_Lagana.PNG
 date-start: 2000-01-01
 tagline: "Department of Chemistry, Sapienza University of Rome"
 subject: "Department of Chemistry, Sapienza University of Rome. Rome, Italy"
