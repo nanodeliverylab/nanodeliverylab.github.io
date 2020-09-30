@@ -7,7 +7,7 @@ header:
 date-start: 2000-01-01
 tagline: "Nanoscopy and NIC@IIT, Istituto Italiano di Tecnologia, Genova, Italy "
 subject: "Nanoscopy and NIC@IIT, Istituto Italiano di Tecnologia, Genova, Italy "
-email: ''
+
 ---
 
 <p align= "justify">
