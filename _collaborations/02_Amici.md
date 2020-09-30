@@ -7,7 +7,6 @@ header:
 date-start: 2000-01-01
 tagline: "School of Biosciences and Veterinary Medicine, University of Camerino"
 subject: "School of Biosciences and Veterinary Medicine, University of Camerino. Camerino (MC), Italy"
-email: ''
 ---
 
 <p align= "justify">
