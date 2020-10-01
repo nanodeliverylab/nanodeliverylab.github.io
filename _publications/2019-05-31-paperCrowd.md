@@ -2,7 +2,7 @@
 title: "TEffect of molecular crowding on the biological identity of liposomes: an overlooked factor at the bio-nano interface"
 collection: publications
 date: 2019-05-31
-venue: 'Lab on a Chip'
+venue: 'Nanoscale Advances'
 authors: 'Luca Digiacomo, Francesca Giulimondi, Morteza Mahmoudi, Giulio Caracciolo'
 paperurl: https://pubs.rsc.org/en/content/articlehtml/2019/na/c9na00195f
 doi: 10.1039/C9NA00195F 
