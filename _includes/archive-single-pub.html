@@ -109,6 +109,8 @@
         <img src="{{ "cover_horiz.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Lab on a Chip" %}
         <img src="{{ "cover_labchip.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Nanoscale Advances" %}
+        <img src="{{ "cover_nanoadv.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Wiley Interdisciplinary Reviews: Nanomedicine and Nanobiotechnology" %}
         <img src="{{ "cover_wnan.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% else %}
