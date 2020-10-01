@@ -8,7 +8,7 @@ author_profile: true
 2020-2023 <br>
 **A graphene-based blood test for the early detection and molecular staging of pancreatic ductal adenocarcinoma.**<br>
 <em>Fellowship.</em> Recipient: <em>Luca Digiacomo</em> <br> funded by
-<em>Associazione Italiana per la Ricerca sul Cancro (AIRC)</em><br>
+<em>Associazione Italiana per la Ricerca sul Cancro (AIRC).</em><br>
 Project id: 24143.	<br>
 75.000 € <br>
 
@@ -19,12 +19,19 @@ Project id: 24143.	<br>
 Project id: 20327.	<br>
 452.000 € <br>
 
-2017-2022 <br>
+2017-2020 <br>
 **Protein corona: the golden gateway for novel targeted drug delivery in breast cancer treatment.**<br>
 <em>Fellowship.</em> Recipient: <em>Sara Palchetti</em> <br> funded by
-<em>Associazione Italiana per la Ricerca sul Cancro (AIRC)</em><br>
+<em>Associazione Italiana per la Ricerca sul Cancro (AIRC).</em><br>
 Project id: 19319 .	<br>
 75.000 € <br>
+
+2019 <br>
+**The protein corona of graphene oxide as a diagnostic tool for the early diagnosis and molecular staging of pancreatic ductal adenocarcinoma.**<br>
+<em>Bando avvio alla ricerca.</em> Recipient: <em>Luca Digiacomo</em> <br> funded by
+<em>Sapienza Università di Roma.</em><br>
+Project id: AR21916B55649858 .	<br>
+2.000 € <br>
 
 2014-2017 <br>
 **Exploiting the protein corona effect for biomarker discovery and targeting of nanomedicines in pancreatic cancer.**<br>
