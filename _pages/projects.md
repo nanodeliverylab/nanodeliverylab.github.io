@@ -25,7 +25,7 @@ Project id: 20327.	<br>
 **Protein corona: the golden gateway for novel targeted drug delivery in breast cancer treatment.**<br>
 <em>Fellowship.</em> Recipient: Sara Palchetti <br> funded by
 <em>Associazione Italiana per la Ricerca sul Cancro (AIRC)</em><br>
-Project id: ... .	<br>
+Project id: 19319 .	<br>
 75.000 € <br>
 
 2014-2017 <br>
