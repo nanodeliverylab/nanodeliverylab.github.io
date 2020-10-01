@@ -1,5 +1,5 @@
 ---
-title: "TEffect of molecular crowding on the biological identity of liposomes: an overlooked factor at the bio-nano interface"
+title: "Effect of molecular crowding on the biological identity of liposomes: an overlooked factor at the bio-nano interface"
 collection: publications
 date: 2019-05-31
 venue: 'Nanoscale Advances'
