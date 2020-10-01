@@ -117,6 +117,8 @@
         <img src="{{ "cover_bbrc.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Scientific Data" %}
         <img src="{{ "cover_scidata.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "ACS Chemical Neuroscience" %}
+        <img src="{{ "cover_acsChemNeuro.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Wiley Interdisciplinary Reviews: Nanomedicine and Nanobiotechnology" %}
         <img src="{{ "cover_wnan.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% else %}
