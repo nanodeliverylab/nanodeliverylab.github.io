@@ -3,7 +3,7 @@ title: "The biomolecular corona of gold nanoparticles in a controlled microfluid
 collection: publications
 date: 2019-06-17
 venue: 'Lab on a Chip'
-authors: 'MLuca Digiacomo, Sara Palchetti, Francesca Giulimondi, Daniela Pozzi, Riccardo Zenezini Chiozzi, Anna Laura Capriotti, Aldo Laganà, Giulio Caracciolo'
+authors: 'Luca Digiacomo, Sara Palchetti, Francesca Giulimondi, Daniela Pozzi, Riccardo Zenezini Chiozzi, Anna Laura Capriotti, Aldo Laganà, Giulio Caracciolo'
 paperurl: https://pubs.rsc.org/en/content/articlelanding/2019/lc/c9lc00341j/unauth#!divAbstract
 doi: 10.1039/C9LC00341J
 type: 'Paper'
