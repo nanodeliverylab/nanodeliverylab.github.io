@@ -8,11 +8,25 @@ author_profile: true
 <br>
 
 2018-2022 <br>
+**A graphene-based blood test for the early detection and molecular staging of pancreatic ductal adenocarcinoma.**<br>
+<em>Fellowship.</em> Recipient: Luca Digiacomo <br> funded by
+<em>Associazione Italiana per la Ricerca sul Cancro (AIRC)</em><br>
+Project id: 24143.	<br>
+75.000 € <br>
+
+2018-2022 <br>
 **Nanoparticle-enabled blood test for pancreatic cancer detection.**<br>
 <em>Investigator Grant - IG 2017</em><br> funded by
 <em>Associazione Italiana per la Ricerca sul Cancro (AIRC)</em><br>
 Project id: 20327.	<br>
 452.000 € <br>
+
+2017-2022 <br>
+**Protein corona: the golden gateway for novel targeted drug delivery in breast cancer treatment.**<br>
+<em>Fellowship.</em> Recipient: Sara Palchetti <br> funded by
+<em>Associazione Italiana per la Ricerca sul Cancro (AIRC)</em><br>
+Project id: ... .	<br>
+75.000 € <br>
 
 2014-2017 <br>
 **Exploiting the protein corona effect for biomarker discovery and targeting of nanomedicines in pancreatic cancer.**<br>
