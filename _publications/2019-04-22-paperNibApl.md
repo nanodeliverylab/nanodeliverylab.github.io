@@ -1,7 +1,7 @@
 ---
 title: "Exploitation of nanoparticle-protein interactions for early disease detection"
 collection: publications
-date: 2019-04-22
+date: 2019-04-25
 venue: 'Applied Physics Letters'
 authors: 'Massimiliano Papi, Valentina Palmieri, Sara Palchetti, Daniela Pozzi, Luca Digiacomo, Elia Guadagno, Marialaura del Basso De Caro, Marina Di Domenico, Serena Ricci, Roberto Pani, Morteza Mahmoudi, Angelina Di Carlo, Giulio Caracciolo'
 paperurl: https://aip.scitation.org/doi/abs/10.1063/1.5098081
