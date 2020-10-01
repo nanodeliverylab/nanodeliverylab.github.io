@@ -30,8 +30,15 @@ Project id: 19319 .	<br>
 **The protein corona of graphene oxide as a diagnostic tool for the early diagnosis and molecular staging of pancreatic ductal adenocarcinoma.**<br>
 <em>Bando avvio alla ricerca.</em> Recipient: <em>Luca Digiacomo</em> <br> funded by
 <em>Sapienza Università di Roma.</em><br>
-Project id: AR21916B55649858 .	<br>
+Project id: AR21916B55649858.	<br>
 2.000 € <br>
+
+2018 <br>
+**Early diagnosis of pancreatic cancer by biomolecular corona of graphene nanoflakes.** <br>
+<em>Bando avvio alla ricerca.</em> Recipient: <em>Luca Digiacomo</em>
+funded by <em<Sapienza Università di Roma.</em><br>
+Project id: AR2181643674C418. <br>
+2.000 € 
 
 2014-2017 <br>
 **Exploiting the protein corona effect for biomarker discovery and targeting of nanomedicines in pancreatic cancer.**<br>
