@@ -4,7 +4,7 @@ collection: publications
 date: 2018-09-01
 venue: 'Pancreatology'
 authors: 'Damiano Caputo, Maria Cristina Cartillone, Chiara Cascone, Daniela Pozzi, Luca Digiacomo, Sara Palchetti, Giulio Caracciolo, Roberto Coppola'
-paperurl:https://www.sciencedirect.com/science/article/abs/pii/S1424390318306070
+paperurl: https://www.sciencedirect.com/science/article/abs/pii/S1424390318306070
 doi: 10.1016/j.pan.2018.06.002
 type: 'Paper'
 theme: 'lipo, nib'
