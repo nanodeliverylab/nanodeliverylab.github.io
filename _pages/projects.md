@@ -5,8 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-<br>
-
 2020-2023 <br>
 **A graphene-based blood test for the early detection and molecular staging of pancreatic ductal adenocarcinoma.**<br>
 <em>Fellowship.</em> Recipient: <em>Luca Digiacomo</em> <br> funded by
