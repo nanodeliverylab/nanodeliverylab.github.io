@@ -36,7 +36,7 @@ Project id: AR21916B55649858.	<br>
 2018 <br>
 **Early diagnosis of pancreatic cancer by biomolecular corona of graphene nanoflakes.** <br>
 <em>Bando avvio alla ricerca.</em> Recipient: <em>Luca Digiacomo</em>
-funded by <em<Sapienza Università di Roma.</em><br>
+funded by <em>Sapienza Università di Roma.</em><br>
 Project id: AR2181643674C418. <br>
 2.000 € 
 
