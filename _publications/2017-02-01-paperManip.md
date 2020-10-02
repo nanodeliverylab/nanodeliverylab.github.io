@@ -3,7 +3,7 @@ title: "Manipulation of lipoplex concentration at the cell surface boosts transf
 collection: publications
 date: 2017-02-01
 venue: 'Nanomedicine: Nanotechnology, Biology and Medicine'
-authors: 'Sara Palchetti, Daniela Pozzi, Cristina Marchini, Augusto Amici, Cristina Andreani, Caterina Bartolacci, Luca Digiacomo, Valentina Gambini, Francesco Cardarelli, Carmine Di Rienzo, Giovanna Peruzzi, Heinz Amenitsch, Rocco Palermo, Isabella Screpanti, Giulio Caracciolo'
+authors: 'Sara Palchetti, Daniela Pozzi, Augusto Amici and Cristina Marchini, Cristina Andreani, Caterina Bartolacci, Luca Digiacomo, Valentina Gambini, Francesco Cardarelli, Carmine Di Rienzo, Giovanna Peruzzi, Heinz Amenitsch, Rocco Palermo, Isabella Screpanti, Giulio Caracciolo'
 paperurl: https://www.sciencedirect.com/science/article/abs/pii/S1549963416301319
 doi: 10.1016/j.nano.2016.08.019
 type: 'Paper'
