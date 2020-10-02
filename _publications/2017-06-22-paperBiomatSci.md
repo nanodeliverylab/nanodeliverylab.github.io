@@ -1,5 +1,5 @@
 ---
-title: "Impact of the biomolecular corona on the structure of PEGylated liposomess"
+title: "Impact of the biomolecular corona on the structure of PEGylated liposomes"
 collection: publications
 date: 2017-06-19
 venue: 'Biomaterials science'
