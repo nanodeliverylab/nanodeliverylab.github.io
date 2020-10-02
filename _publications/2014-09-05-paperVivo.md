@@ -2,7 +2,7 @@
 title: "The liposome–protein corona in mice and humans and its implications for in vivo delivery"
 collection: publications
 date: 2014-09-05
-venue: 'Biochimica et Biophysica Acta (BBA)- Biomembranes'
+venue: 'Journal of Materials Chemistry B'
 authors: 'Giulio Caracciolo, Daniela Pozzi, Anna Laura Capriotti, Chiara Cavaliere, Susy Piovesana, Giorgia La Barbera, Augusto Amici, Alado Laganà'
 paperurl: https://pubs.rsc.org/en/content/articlelanding/2014/tb/c4tb01316f/unauth#!divAbstract
 doi: 10.1039/C4TB01316F
