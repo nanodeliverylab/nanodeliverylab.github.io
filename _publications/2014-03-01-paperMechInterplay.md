@@ -3,7 +3,7 @@ title: "Mechanistic evaluation of the transfection barriers involved in lipid-me
 collection: publications
 date: 2014-03-01
 venue: 'Biochimica et Biophysica Acta (BBA) - Biomembranes'
-authors: 'Daniela Pozzi, Cristina Marchini, Francesco Cardarelli, Francesco Salomone, Stefano Coppola, Maura Montani, Maria Elexpuru Zabaleta, Michelle A. Digman, Enrico Gratton, Valentina Colapicchioni, Giulio Caracciolo'
+authors: 'Daniela Pozzi, Cristina Marchini, Francesco Cardarelli, Fabrizio Salomone, Stefano Coppola, Maura Montani, Maria Elexpuru Zabaleta, Michelle A. Digman, Enrico Gratton, Valentina Colapicchioni, Giulio Caracciolo'
 paperurl: https://www.sciencedirect.com/science/article/pii/S0005273613004203
 doi: 10.1016/j.bbamem.2013.11.014
 type: 'paper'
