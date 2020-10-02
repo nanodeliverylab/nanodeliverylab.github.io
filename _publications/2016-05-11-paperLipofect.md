@@ -3,7 +3,7 @@ title: "The intracellular trafficking mechanism of Lipofectamine-based transfect
 collection: publications
 date: 2016-05-11
 venue: 'Scientific reports'
-authors: 'VFrancesco Cardarelli, Luca Digiacomo, Cristina Marchini, Augusto Amici, Fabrizio Salomone, Giuseppe Fiume, Alessandro Rossetta, Enrico Gratton, Daniela Pozzi, Giulio Caracciolo'
+authors: 'Francesco Cardarelli, Luca Digiacomo, Cristina Marchini, Augusto Amici, Fabrizio Salomone, Giuseppe Fiume, Alessandro Rossetta, Enrico Gratton, Daniela Pozzi, Giulio Caracciolo'
 paperurl: https://www.nature.com/articles/srep25879
 doi: 10.1038/srep25879
 type: 'Paper'
