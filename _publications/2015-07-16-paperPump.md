@@ -7,7 +7,7 @@ authors: 'Daniela Pozzi, Giulio Caracciolo, Luca Digiacomo, Valentina Colapicchi
 paperurl: https://pubs.rsc.org/lv/content/articlelanding/2015/nr/c5nr03701h/unauth#!divAbstract
 doi: 10.1039/C5NR03701H
 type: 'paper'
-theme: 'delivey, lipo'
+theme: 'delivery, lipo'
 resources: ''
 ---
 
