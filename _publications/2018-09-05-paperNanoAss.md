@@ -3,7 +3,7 @@ title: "Cationic lipid/DNA complexes manufactured by microfluidics and bulk self
 collection: publications
 date: 2018-09-05
 venue: 'Biochemical and biophysical research communications'
-authors: 'Luca Digiacomo, Sara Palchetti, Daniela Pozzi, Augusto Amici and Cristina Marchini, Giulio Caracciolo'
+authors: 'Luca Digiacomo, Sara Palchetti, Daniela Pozzi, Augusto Amici, Giulio Caracciolo, Cristina Marchini'
 paperurl: https://www.sciencedirect.com/science/article/abs/pii/S0006291X18310611
 doi: 10.1016/j.bbrc.2018.05.016
 type: 'Paper'
