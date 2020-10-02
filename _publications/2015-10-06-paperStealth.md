@@ -7,7 +7,7 @@ authors: 'Giulio Caracciolo, Sara Palchetti, Valentina Colapicchioni, Luca Digia
 paperurl: https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.5b02158
 doi: 10.1021/acs.langmuir.5b02158
 type: 'paper'
-theme: 'delivey, lipo'
+theme: 'delivery, lipo'
 resources: ''
 ---
 
