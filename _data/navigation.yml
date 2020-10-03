@@ -1,7 +1,6 @@
 # main links links
 main:
-  #- title: "News"
-  #  url: /news/
+  
 
   - title: "Research"
     url: /research/
@@ -27,9 +26,12 @@ main:
   #- title: "Outreach"
   #  url: /outreach/
   
-  - title: "Talks"
-    url: /talks/
-
+  #- title: "Talks"
+  #  url: /talks/
+  
+  - title: "News"
+    url: /news/
+  
   #- title: "Gallery"
   #  url: /gallery/
 
