@@ -17,9 +17,135 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
+  {% if post.type contains 'Corresponding author' %}
+  <table style="border:1px dotted black;">
+  {% else %}
   <table style="border: none;">
+  {% endif %}
 
     <tr>
+      <td width="10%" style="border: none;">
+      {% if post.venue == "bioRxiv" %}
+        <img src="{{ "cover_bioRxiv.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Journal of Physics D: Applied Physics" %}
+        <img src="{{ "cover_jphysd.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Nature methods" %}
+        <img src="{{ "cover_nmeth.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Nature communications" %}
+        <img src="{{ "cover_ncomm.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Nature microbiology" %}
+        <img src="{{ "cover_nmicro.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Scientific reports" %}
+        <img src="{{ "cover_scirep.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "SPIE" %}
+        <img src="{{ "cover_spie.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Frontiers in immunology" %}
+        <img src="{{ "cover_frontimmun.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Biochemical Society Transactions" %}
+        <img src="{{ "cover_biochemsoctrans.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "The annals of applied statistics" %}
+        <img src="{{ "cover_annalsstat.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "The international journal of biochemistry & cell biology" %}
+        <img src="{{ "cover_tijbcb.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "JoVE (Journal of Visualized Experiments)" %}
+        <img src="{{ "cover_jove.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Journal of Experimental Medicine" %}
+        <img src="{{ "cover_jem.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Journal of Cell Biology" %}
+        <img src="{{ "cover_jcb.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Developmental cell" %}
+        <img src="{{ "cover_devcell.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Cell host & microbe" %}
+        <img src="{{ "cover_chm.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Methods in cell biology" %}
+        <img src="{{ "cover_micb.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "EMBO reports" %}
+        <img src="{{ "cover_emborep.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "PLoS pathogens" %}
+        <img src="{{ "cover_plospath.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "The Journal of Immunology" %}
+        <img src="{{ "cover_ji.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.title == "Standard and super-resolution bioimaging data analysis: a primer" %}
+        <img src="{{ "cover_primer.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Nano Letters" %}
+        <img src="{{ "cover_nanoletters.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Traffic" %}
+        <img src="{{ "cover_traffic.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Current Biology" %}
+        <img src="{{ "cover_currentbiology.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Journal of Cell Science" %}
+        <img src="{{ "cover_jcs.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Science" %}
+        <img src="{{ "cover_science.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Nature" %}
+        <img src="{{ "cover_nature.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Frontiers in Bioengineering and Biotechnology" %}
+        <img src="{{ "cover_fbb.png" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Nanoscale" %}
+        <img src="{{ "cover_nanoscale.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Langmuir" %}
+        <img src="{{ "cover_langmuir.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Trends in Biotechnology" %}
+        <img src="{{ "cover_tb.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Nanomedicine: Nanotechnology, Biology and Medicine" %}
+        <img src="{{ "cover_nm.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Biochimica et Biophysica Acta (BBA) - Biomembranes" %}
+        <img src="{{ "cover_bba_bm.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Applied Physics Letters" %}
+        <img src="{{ "cover_apl.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Nanomaterials" %}
+        <img src="{{ "cover_nanom.png" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Talanta" %}
+        <img src="{{ "cover_talanta.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Cancer Letters" %}
+        <img src="{{ "cover_CancLett.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Pharmaceutics" %}
+        <img src="{{ "cover_pharm.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Sensors International" %}
+        <img src="{{ "cover_Sens.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Nano Today" %}
+        <img src="{{ "cover_ntoday.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Nanoscale Horizons" %}
+        <img src="{{ "cover_horiz.png" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Lab on a Chip" %}
+        <img src="{{ "cover_labchip.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Nanoscale Advances" %}
+        <img src="{{ "cover_nanoadv.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Pancreatology" %}
+        <img src="{{ "cover_pancr.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Biochemical and biophysical research communications" %}
+        <img src="{{ "cover_bbrc.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Scientific Data" %}
+        <img src="{{ "cover_scidata.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "ACS Chemical Neuroscience" %}
+        <img src="{{ "cover_acsChemNeuro.png" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Biomaterials science" %}
+        <img src="{{ "cover_biomat.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "ACS applied materials & interfaces" %}
+        <img src="{{ "cover_acsAppl.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "RSC advances" %}
+        <img src="{{ "cover_rscAdv.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Wiley Interdisciplinary Reviews: Nanomedicine and Nanobiotechnology" %}
+        <img src="{{ "cover_wnan.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Acta biomaterialia" %}
+        <img src="{{ "cover_acta.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "ACS nano" %}
+        <img src="{{ "cover_acsnano.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Colloids and Surfaces B: Biointerfaces" %}
+        <img src="{{ "cover_colloidsB.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Journal of proteomics" %}
+        <img src="{{ "cover_jprot.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "European biophysics journal" %}
+        <img src="{{ "cover_ebpj.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Molecular pharmaceutics" %}
+        <img src="{{ "cover_molph.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Journal of Materials Chemistry B" %}
+        <img src="{{ "cover_jmcb.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% else %}
+        <img src="{{ "journal.png" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% endif %}
+      </td>
+
         <td width="80%" style="border: none;">
 
           <span style="font-size:1.05em; line-height: 0.1; font-weight:bold" class="archive__item-title" itemprop="headline">
@@ -31,7 +157,46 @@
           </span>
 
           {% if post.authors %}
-          <br><span style="font-size:0.85em; line-height: 0.5;"><i>{{ post.authors }}</i></span><br>
+            {% assign authors = post.authors | split: ", " %}
+            {% assign found = false %}
+            {% assign nauthors = authors.size | minus: 1 %}
+
+            {% capture author_names %}
+              {% for author in authors %}
+                {% for team in site.team %}
+                  {% if author contains team.authorname %}
+                    {% if author != authors[nauthors] %}
+                      <a href="{{ team.url }}"><u>{{ author }}</u></a>,
+                    {% else %}
+                      <a href="{{ team.url }}"><u>{{ author }}</u></a>
+                    {% endif %}
+                    {% assign found = true %}
+                  {% endif %}
+                {% endfor %}
+
+                {% for collaborator in site.collaborations %}
+                  {% if author contains collaborator.authorname %}
+                    {% if author != authors[nauthors] %}
+                      <a href="{{ collaborator.url }}">{{ author }}</a>,
+                    {% else %}
+                      <a href="{{ collaborator.url }}">{{ author }}</a>
+                    {% endif %}
+                    {% assign found = true %}
+                  {% endif %}
+                {% endfor %}
+
+                {% if found != true %}
+                  {% if author != authors[nauthors] %}
+                    {{ author }},
+                  {% else %}
+                    {{ author }}
+                  {% endif %}
+                {% endif %}
+                {% assign found = false %}
+              {% endfor %}
+            {% endcapture %}
+
+            <br><span style="font-size:0.85em; line-height: 0.5;"><i>{{ author_names }}</i></span><br>
           {% endif %}
 
           {% if post.collection == 'publications' %}
@@ -48,6 +213,40 @@
           <span style="font-size:0.8em; line-height: 0.5;"><b><cite>(see <a href="{{ post.paperurl }}"> <u>publication</u></a>)</cite></b></span><br>
           {% else %}
           <br>
+          {% endif %}
+
+          {% assign pubthemes = post.theme | split: ", " %}
+          {% assign counter1 = 0 %}
+          {% assign counter2 = 0 %}
+          {% for theme in site.research %}
+            {% for pubtheme in pubthemes %}
+              {% if pubtheme == theme.type %}
+                {% assign counter1 = counter1 | plus: 1 %}
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+          {% capture pub_themes %}
+            {% for theme in site.research %}
+              {% for pubtheme in pubthemes %}
+                {% if pubtheme == theme.type %}
+                  {% assign counter2 = counter2 | plus: 1 %}
+                  {% if counter1!=counter2 %}
+                      <a href="{{ theme.url }}">{{ theme.title }}</a>,
+                  {% else %}
+                      <a href="{{ theme.url }}">{{ theme.title }}</a>
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+          {% endcapture %}
+          <span style="font-size:0.85em; line-height: 0.5;"><b>Research themes:</b> {{ pub_themes }}</span><br>
+
+          {% if post.type %}
+          <span style="font-size:0.85em; line-height: 0.5;"><b>Type: </b><i>{{ post.type }}</i></span><br>
+          {% endif %}
+
+          {% if post.resource-software %}
+          <span style="font-size:0.85em; line-height: 0.5;"><i>{{ post.resource-software }}</i></span><br>
           {% endif %}
 
     </td>
