@@ -5,7 +5,7 @@ collection: resources
 author_profile: true
 date: 2008-02-02
 header:
-  teaser: nanoassemblr.jpg
+  teaser: nanoass.png
 uri: 
 doi: 
 contributors: 
