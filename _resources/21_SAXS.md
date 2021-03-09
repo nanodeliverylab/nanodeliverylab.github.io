@@ -6,7 +6,7 @@ collection: resources
 author_profile: true
 date: 2014-01-01
 header:
-  teaser: SAXS.jpg
+  teaser: saxs.jpg
 contributors: "Amenitsch"
 ---
 <p align= "justify">
