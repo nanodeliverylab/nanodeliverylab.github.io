@@ -5,7 +5,7 @@ collection: resources
 author_profile: true
 date: 2008-02-05
 header:
-  teaser: glomax.jpeg
+  teaser: glomax_2.jpeg
 uri: 
 doi: 
 contributors: 
