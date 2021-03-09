@@ -5,7 +5,7 @@ collection: resources
 author_profile: true
 date: 2008-02-03
 header:
-  teaser: zetasizer.jpg
+  teaser: Malvern.jpg
 uri: 
 doi: 
 contributors: 
