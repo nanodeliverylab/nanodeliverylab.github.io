@@ -5,7 +5,7 @@ collection: resources
 author_profile: true
 date: 2014-01-03
 header:
-  teaser: confocal.jpeg
+  teaser: confocal.jpg
 contributors: "Cardarelli, Gratton"
 ---
 <p align= "justify">
