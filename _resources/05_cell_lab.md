@@ -5,7 +5,7 @@ collection: resources
 author_profile: true
 date: 2008-01-02
 header:
-  teaser: cell_lab.jpg
+  teaser: cells.jpg
 uri: 
 doi: 
 contributors: 
