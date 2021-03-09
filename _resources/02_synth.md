@@ -5,7 +5,7 @@ collection: resources
 author_profile: true
 date: 2008-01-01
 header:
-  teaser: synthesislab.jpg
+  teaser: synthesislab_2.jpg
 uri: 
 doi: 
 contributors: 
