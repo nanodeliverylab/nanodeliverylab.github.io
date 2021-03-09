@@ -1,5 +1,5 @@
 ---
-title: "Dynamic light scattering"
+title: "Dynamic Light Scattering"
 type: "instrument"
 collection: resources
 author_profile: true
