@@ -5,7 +5,7 @@ collection: resources
 author_profile: true
 date: 2008-02-04
 header:
-  teaser: jasco.jpg
+  teaser: jasco.png
 uri: 
 doi: 
 contributors: 
