@@ -5,7 +5,7 @@ collection: resources
 author_profile: true
 date: 2008-01-02
 header:
-  teaser: dls_room.jpg
+  teaser: char.jpg
 uri: 
 doi: 
 contributors: 
