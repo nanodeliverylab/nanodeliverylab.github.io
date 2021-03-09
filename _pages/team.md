@@ -56,6 +56,7 @@ author_profile: true
 <h2>Former lab members</h2>
 
 <hr>
+<strong>Riccardo Di Santo</strong>. Ph.D. thesis. <em>title...</em> <br><br>
 <strong>Laura Scarpati</strong>. Master's thesis. <em>Ruolo della corona proteica artificiale nella veicolazione di materiale genetico mediata da liposomi cationici.</em> 2020<br><br>
 <strong>Benedetta Soccodato</strong>. Master's thesis. <em>Preparazione, caratterizzazione chimico-fisica e validazione in vitro di formulazioni liposomiali per la
 veicolazione di Temozolomide nei tumori cerebrali.</em> 2019<br><br>
