@@ -1,5 +1,5 @@
 ---
-title: "Synthesis Lab"
+title: "Synthesis lab"
 type: "instrument"
 collection: resources
 author_profile: true
