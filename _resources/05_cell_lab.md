@@ -1,5 +1,5 @@
 ---
-title: "Cell culture Lab"
+title: "Cell culture room"
 type: "instrument"
 collection: resources
 author_profile: true
