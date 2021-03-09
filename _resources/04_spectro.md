@@ -12,5 +12,5 @@ contributors:
 ---
 <p align= "justify">
 
-Description
+Old but gold, [...]
 
