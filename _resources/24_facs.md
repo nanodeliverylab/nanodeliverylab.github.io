@@ -5,7 +5,7 @@ collection: resources
 author_profile: true
 date: 2014-01-04
 header:
-  teaser: flow.jpeg
+  teaser: flow.jpg
 contributors: "Zingoni"
 ---
 <p align= "justify">
