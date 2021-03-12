@@ -17,7 +17,7 @@ image_sliders:
 
 <body align="justify">
 
-
+<p align= "justify">
 
 ### Our goal
 
