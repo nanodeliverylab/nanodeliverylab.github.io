@@ -5,6 +5,14 @@ permalink: /projects/
 author_profile: true
 ---
 
+2020-2024 <br>
+**Nanotechnology-based rapid in vitro diagnostic test for pancreatic cancer detection.**<br>
+<em>Investigator Grant - IG 2020.</em> Recipient: <em>Prof. Daniela Pozzi</em> <br> funded by
+<em>Associazione Italiana per la Ricerca sul Cancro (AIRC).</em><br>
+Project id: 24521.	<br>
+450.000 € <br>
+
+
 2020-2023 <br>
 **A graphene-based blood test for the early detection and molecular staging of pancreatic ductal adenocarcinoma.**<br>
 <em>Fellowship.</em> Recipient: <em>Luca Digiacomo</em> <br> funded by
@@ -14,7 +22,7 @@ Project id: 24143.	<br>
 
 2018-2022 <br>
 **Nanoparticle-enabled blood test for pancreatic cancer detection.**<br>
-<em>Investigator Grant - IG 2017</em> Recipient: <em>Prof. Giulio Caracciolo</em> <br> funded by
+<em>Investigator Grant - IG 2017.</em> Recipient: <em>Prof. Giulio Caracciolo</em> <br> funded by
 <em>Associazione Italiana per la Ricerca sul Cancro (AIRC)</em><br>
 Project id: 20327.	<br>
 452.000 € <br>
