@@ -14,7 +14,7 @@ Project id: 24143.	<br>
 
 2018-2022 <br>
 **Nanoparticle-enabled blood test for pancreatic cancer detection.**<br>
-<em>Investigator Grant - IG 2017</em><br> funded by
+<em>Investigator Grant - IG 2017</em> Recipient: <em>Prof. Giulio Caracciolo</em> <br> funded by
 <em>Associazione Italiana per la Ricerca sul Cancro (AIRC)</em><br>
 Project id: 20327.	<br>
 452.000 € <br>
