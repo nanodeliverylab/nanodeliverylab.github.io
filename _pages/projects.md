@@ -25,7 +25,7 @@ Project id: 24143.	<br>
 <em>Investigator Grant - IG 2017.</em> Recipient: <em>Prof. Giulio Caracciolo</em> <br> funded by
 <em>Associazione Italiana per la Ricerca sul Cancro (AIRC)</em><br>
 Project id: 20327.	<br>
-452.000 € <br>
+450.000 € <br>
 
 2017-2020 <br>
 **Protein corona: the golden gateway for novel targeted drug delivery in breast cancer treatment.**<br>
