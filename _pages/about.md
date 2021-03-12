@@ -19,6 +19,8 @@ image_sliders:
 
 <p align= "justify">
 
+<br>
+
 **Our goal** <br><br>
 
 At the NanoDelivery Lab our mission is to generate and disseminate fundamental knowledge in the fast-moving field of nanomedicine by combining physics, chemistry, biology, pharmacology and nanotechnology and their translation to innovative, clinically-applicable therapeutics and diagnostics based on the exploitation of the proteina corona. Great emphasis is placed in the preclinical development of nanodelivery systems tools based on nanomaterials of synthetic and biological nature including DNA, RNA, lipids, proteins, carbon nanomaterials and other nanomaterials. The research efforts taking place within the NanoDelivery Lab are also bridging the gap between fundamental science and clinical applicability towards the realization of advanced diagnostic technologies. <br><br>
