@@ -12,5 +12,5 @@ contributors:
 ---
 <p align= "justify">
 
-Old but gold, [...]
+Old but gold, Jasco spectrophotometer hepls us quantify drug and nucleic acid encapsulation in nanoparticles, nanomaterial concentration in solutions, surface plasmon resonances and further significant parameters that are accessible via UV-Vis absorption spectra.
 
